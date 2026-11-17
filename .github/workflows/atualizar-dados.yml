@@ -1,0 +1,24 @@
+name: atualizar-dados
+
+# Baixa a série mais recente do IBGE e disponibiliza o CSV para conferência.
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/baixar_dados.py
+      - .github/workflows/atualizar-dados.yml
+
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pandas requests
+      - run: python scripts/baixar_dados.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: desocupacao_trimestral
+          path: data/desocupacao_trimestral.csv
