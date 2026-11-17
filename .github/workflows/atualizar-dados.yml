@@ -18,6 +18,8 @@ jobs:
           python-version: "3.12"
       - run: pip install pandas requests
       - run: python scripts/baixar_dados.py
+      - name: Mostrar o CSV no log
+        run: cat data/desocupacao_trimestral.csv
       - uses: actions/upload-artifact@v4
         with:
           name: desocupacao_trimestral
