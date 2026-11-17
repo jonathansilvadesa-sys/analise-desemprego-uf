@@ -1,0 +1,1915 @@
+nivel,codigo,local,sigla,regiao,ano,trimestre,taxa_desocupacao
+Brasil,1,Brasil,,,2012,1,8.0
+Brasil,1,Brasil,,,2012,2,7.6
+Brasil,1,Brasil,,,2012,3,7.1
+Brasil,1,Brasil,,,2012,4,6.9
+Brasil,1,Brasil,,,2013,1,8.0
+Brasil,1,Brasil,,,2013,2,7.5
+Brasil,1,Brasil,,,2013,3,7.0
+Brasil,1,Brasil,,,2013,4,6.2
+Brasil,1,Brasil,,,2014,1,7.2
+Brasil,1,Brasil,,,2014,2,6.9
+Brasil,1,Brasil,,,2014,3,6.8
+Brasil,1,Brasil,,,2014,4,6.6
+Brasil,1,Brasil,,,2015,1,8.0
+Brasil,1,Brasil,,,2015,2,8.4
+Brasil,1,Brasil,,,2015,3,9.0
+Brasil,1,Brasil,,,2015,4,9.1
+Brasil,1,Brasil,,,2016,1,11.0
+Brasil,1,Brasil,,,2016,2,11.4
+Brasil,1,Brasil,,,2016,3,11.9
+Brasil,1,Brasil,,,2016,4,12.1
+Brasil,1,Brasil,,,2017,1,13.9
+Brasil,1,Brasil,,,2017,2,13.1
+Brasil,1,Brasil,,,2017,3,12.5
+Brasil,1,Brasil,,,2017,4,11.9
+Brasil,1,Brasil,,,2018,1,13.2
+Brasil,1,Brasil,,,2018,2,12.6
+Brasil,1,Brasil,,,2018,3,12.0
+Brasil,1,Brasil,,,2018,4,11.7
+Brasil,1,Brasil,,,2019,1,12.8
+Brasil,1,Brasil,,,2019,2,12.1
+Brasil,1,Brasil,,,2019,3,11.9
+Brasil,1,Brasil,,,2019,4,11.1
+Brasil,1,Brasil,,,2020,1,12.4
+Brasil,1,Brasil,,,2020,2,13.6
+Brasil,1,Brasil,,,2020,3,14.9
+Brasil,1,Brasil,,,2020,4,14.2
+Brasil,1,Brasil,,,2021,1,14.9
+Brasil,1,Brasil,,,2021,2,14.2
+Brasil,1,Brasil,,,2021,3,12.7
+Brasil,1,Brasil,,,2021,4,11.1
+Brasil,1,Brasil,,,2022,1,11.1
+Brasil,1,Brasil,,,2022,2,9.3
+Brasil,1,Brasil,,,2022,3,8.7
+Brasil,1,Brasil,,,2022,4,7.9
+Brasil,1,Brasil,,,2023,1,8.8
+Brasil,1,Brasil,,,2023,2,8.0
+Brasil,1,Brasil,,,2023,3,7.7
+Brasil,1,Brasil,,,2023,4,7.4
+Brasil,1,Brasil,,,2024,1,7.9
+Brasil,1,Brasil,,,2024,2,6.9
+Brasil,1,Brasil,,,2024,3,6.4
+Brasil,1,Brasil,,,2024,4,6.2
+Brasil,1,Brasil,,,2025,1,7.0
+Brasil,1,Brasil,,,2025,2,5.8
+Brasil,1,Brasil,,,2025,3,5.6
+Brasil,1,Brasil,,,2025,4,5.1
+Brasil,1,Brasil,,,2026,1,6.1
+Brasil,1,Brasil,,,2026,2,5.4
+Região,1,Norte,,Norte,2012,1,9.0
+Região,1,Norte,,Norte,2012,2,8.2
+Região,1,Norte,,Norte,2012,3,7.9
+Região,1,Norte,,Norte,2012,4,7.4
+Região,1,Norte,,Norte,2013,1,8.7
+Região,1,Norte,,Norte,2013,2,8.4
+Região,1,Norte,,Norte,2013,3,7.6
+Região,1,Norte,,Norte,2013,4,6.6
+Região,1,Norte,,Norte,2014,1,7.8
+Região,1,Norte,,Norte,2014,2,7.3
+Região,1,Norte,,Norte,2014,3,7.0
+Região,1,Norte,,Norte,2014,4,6.9
+Região,1,Norte,,Norte,2015,1,8.8
+Região,1,Norte,,Norte,2015,2,8.7
+Região,1,Norte,,Norte,2015,3,9.0
+Região,1,Norte,,Norte,2015,4,8.8
+Região,1,Norte,,Norte,2016,1,10.6
+Região,1,Norte,,Norte,2016,2,11.4
+Região,1,Norte,,Norte,2016,3,11.6
+Região,1,Norte,,Norte,2016,4,12.9
+Região,1,Norte,,Norte,2017,1,14.4
+Região,1,Norte,,Norte,2017,2,12.6
+Região,1,Norte,,Norte,2017,3,12.3
+Região,1,Norte,,Norte,2017,4,11.4
+Região,1,Norte,,Norte,2018,1,12.8
+Região,1,Norte,,Norte,2018,2,12.2
+Região,1,Norte,,Norte,2018,3,11.7
+Região,1,Norte,,Norte,2018,4,11.8
+Região,1,Norte,,Norte,2019,1,13.2
+Região,1,Norte,,Norte,2019,2,12.0
+Região,1,Norte,,Norte,2019,3,11.9
+Região,1,Norte,,Norte,2019,4,10.7
+Região,1,Norte,,Norte,2020,1,12.1
+Região,1,Norte,,Norte,2020,2,12.0
+Região,1,Norte,,Norte,2020,3,13.3
+Região,1,Norte,,Norte,2020,4,12.6
+Região,1,Norte,,Norte,2021,1,15.0
+Região,1,Norte,,Norte,2021,2,14.1
+Região,1,Norte,,Norte,2021,3,12.0
+Região,1,Norte,,Norte,2021,4,11.2
+Região,1,Norte,,Norte,2022,1,11.7
+Região,1,Norte,,Norte,2022,2,8.9
+Região,1,Norte,,Norte,2022,3,8.2
+Região,1,Norte,,Norte,2022,4,8.0
+Região,1,Norte,,Norte,2023,1,9.1
+Região,1,Norte,,Norte,2023,2,8.1
+Região,1,Norte,,Norte,2023,3,7.7
+Região,1,Norte,,Norte,2023,4,7.7
+Região,1,Norte,,Norte,2024,1,8.2
+Região,1,Norte,,Norte,2024,2,6.9
+Região,1,Norte,,Norte,2024,3,6.6
+Região,1,Norte,,Norte,2024,4,6.9
+Região,1,Norte,,Norte,2025,1,8.2
+Região,1,Norte,,Norte,2025,2,6.5
+Região,1,Norte,,Norte,2025,3,6.2
+Região,1,Norte,,Norte,2025,4,5.8
+Região,1,Norte,,Norte,2026,1,7.0
+Região,1,Norte,,Norte,2026,2,6.1
+Região,2,Nordeste,,Nordeste,2012,1,9.8
+Região,2,Nordeste,,Nordeste,2012,2,9.7
+Região,2,Nordeste,,Nordeste,2012,3,9.4
+Região,2,Nordeste,,Nordeste,2012,4,9.4
+Região,2,Nordeste,,Nordeste,2013,1,11.0
+Região,2,Nordeste,,Nordeste,2013,2,10.1
+Região,2,Nordeste,,Nordeste,2013,3,9.1
+Região,2,Nordeste,,Nordeste,2013,4,8.0
+Região,2,Nordeste,,Nordeste,2014,1,9.4
+Região,2,Nordeste,,Nordeste,2014,2,8.8
+Região,2,Nordeste,,Nordeste,2014,3,8.7
+Região,2,Nordeste,,Nordeste,2014,4,8.3
+Região,2,Nordeste,,Nordeste,2015,1,9.6
+Região,2,Nordeste,,Nordeste,2015,2,10.4
+Região,2,Nordeste,,Nordeste,2015,3,10.9
+Região,2,Nordeste,,Nordeste,2015,4,10.6
+Região,2,Nordeste,,Nordeste,2016,1,12.9
+Região,2,Nordeste,,Nordeste,2016,2,13.4
+Região,2,Nordeste,,Nordeste,2016,3,14.2
+Região,2,Nordeste,,Nordeste,2016,4,14.5
+Região,2,Nordeste,,Nordeste,2017,1,16.4
+Região,2,Nordeste,,Nordeste,2017,2,16.0
+Região,2,Nordeste,,Nordeste,2017,3,15.0
+Região,2,Nordeste,,Nordeste,2017,4,14.0
+Região,2,Nordeste,,Nordeste,2018,1,16.0
+Região,2,Nordeste,,Nordeste,2018,2,15.0
+Região,2,Nordeste,,Nordeste,2018,3,14.6
+Região,2,Nordeste,,Nordeste,2018,4,14.5
+Região,2,Nordeste,,Nordeste,2019,1,15.5
+Região,2,Nordeste,,Nordeste,2019,2,14.8
+Região,2,Nordeste,,Nordeste,2019,3,14.6
+Região,2,Nordeste,,Nordeste,2019,4,13.8
+Região,2,Nordeste,,Nordeste,2020,1,15.8
+Região,2,Nordeste,,Nordeste,2020,2,16.5
+Região,2,Nordeste,,Nordeste,2020,3,18.3
+Região,2,Nordeste,,Nordeste,2020,4,17.5
+Região,2,Nordeste,,Nordeste,2021,1,18.9
+Região,2,Nordeste,,Nordeste,2021,2,18.5
+Região,2,Nordeste,,Nordeste,2021,3,16.4
+Região,2,Nordeste,,Nordeste,2021,4,14.8
+Região,2,Nordeste,,Nordeste,2022,1,15.0
+Região,2,Nordeste,,Nordeste,2022,2,12.7
+Região,2,Nordeste,,Nordeste,2022,3,12.0
+Região,2,Nordeste,,Nordeste,2022,4,10.9
+Região,2,Nordeste,,Nordeste,2023,1,12.3
+Região,2,Nordeste,,Nordeste,2023,2,11.3
+Região,2,Nordeste,,Nordeste,2023,3,10.9
+Região,2,Nordeste,,Nordeste,2023,4,10.5
+Região,2,Nordeste,,Nordeste,2024,1,11.1
+Região,2,Nordeste,,Nordeste,2024,2,9.4
+Região,2,Nordeste,,Nordeste,2024,3,8.7
+Região,2,Nordeste,,Nordeste,2024,4,8.7
+Região,2,Nordeste,,Nordeste,2025,1,9.9
+Região,2,Nordeste,,Nordeste,2025,2,8.2
+Região,2,Nordeste,,Nordeste,2025,3,7.8
+Região,2,Nordeste,,Nordeste,2025,4,7.1
+Região,2,Nordeste,,Nordeste,2026,1,8.4
+Região,2,Nordeste,,Nordeste,2026,2,7.6
+Região,3,Sudeste,,Sudeste,2012,1,8.0
+Região,3,Sudeste,,Sudeste,2012,2,7.4
+Região,3,Sudeste,,Sudeste,2012,3,6.9
+Região,3,Sudeste,,Sudeste,2012,4,6.7
+Região,3,Sudeste,,Sudeste,2013,1,7.6
+Região,3,Sudeste,,Sudeste,2013,2,7.3
+Região,3,Sudeste,,Sudeste,2013,3,7.1
+Região,3,Sudeste,,Sudeste,2013,4,6.3
+Região,3,Sudeste,,Sudeste,2014,1,7.1
+Região,3,Sudeste,,Sudeste,2014,2,6.9
+Região,3,Sudeste,,Sudeste,2014,3,6.9
+Região,3,Sudeste,,Sudeste,2014,4,6.7
+Região,3,Sudeste,,Sudeste,2015,1,8.1
+Região,3,Sudeste,,Sudeste,2015,2,8.4
+Região,3,Sudeste,,Sudeste,2015,3,9.2
+Região,3,Sudeste,,Sudeste,2015,4,9.7
+Região,3,Sudeste,,Sudeste,2016,1,11.6
+Região,3,Sudeste,,Sudeste,2016,2,11.8
+Região,3,Sudeste,,Sudeste,2016,3,12.4
+Região,3,Sudeste,,Sudeste,2016,4,12.5
+Região,3,Sudeste,,Sudeste,2017,1,14.3
+Região,3,Sudeste,,Sudeste,2017,2,13.7
+Região,3,Sudeste,,Sudeste,2017,3,13.3
+Região,3,Sudeste,,Sudeste,2017,4,12.7
+Região,3,Sudeste,,Sudeste,2018,1,13.9
+Região,3,Sudeste,,Sudeste,2018,2,13.3
+Região,3,Sudeste,,Sudeste,2018,3,12.6
+Região,3,Sudeste,,Sudeste,2018,4,12.3
+Região,3,Sudeste,,Sudeste,2019,1,13.3
+Região,3,Sudeste,,Sudeste,2019,2,12.5
+Região,3,Sudeste,,Sudeste,2019,3,12.0
+Região,3,Sudeste,,Sudeste,2019,4,11.5
+Região,3,Sudeste,,Sudeste,2020,1,12.6
+Região,3,Sudeste,,Sudeste,2020,2,14.2
+Região,3,Sudeste,,Sudeste,2020,3,15.7
+Região,3,Sudeste,,Sudeste,2020,4,15.1
+Região,3,Sudeste,,Sudeste,2021,1,15.4
+Região,3,Sudeste,,Sudeste,2021,2,14.6
+Região,3,Sudeste,,Sudeste,2021,3,13.1
+Região,3,Sudeste,,Sudeste,2021,4,11.3
+Região,3,Sudeste,,Sudeste,2022,1,11.2
+Região,3,Sudeste,,Sudeste,2022,2,9.3
+Região,3,Sudeste,,Sudeste,2022,3,8.7
+Região,3,Sudeste,,Sudeste,2022,4,7.9
+Região,3,Sudeste,,Sudeste,2023,1,8.6
+Região,3,Sudeste,,Sudeste,2023,2,7.9
+Região,3,Sudeste,,Sudeste,2023,3,7.5
+Região,3,Sudeste,,Sudeste,2023,4,7.1
+Região,3,Sudeste,,Sudeste,2024,1,7.6
+Região,3,Sudeste,,Sudeste,2024,2,6.7
+Região,3,Sudeste,,Sudeste,2024,3,6.2
+Região,3,Sudeste,,Sudeste,2024,4,5.9
+Região,3,Sudeste,,Sudeste,2025,1,6.6
+Região,3,Sudeste,,Sudeste,2025,2,5.3
+Região,3,Sudeste,,Sudeste,2025,3,5.3
+Região,3,Sudeste,,Sudeste,2025,4,4.8
+Região,3,Sudeste,,Sudeste,2026,1,5.9
+Região,3,Sudeste,,Sudeste,2026,2,5.2
+Região,4,Sul,,Sul,2012,1,5.2
+Região,4,Sul,,Sul,2012,2,4.9
+Região,4,Sul,,Sul,2012,3,4.3
+Região,4,Sul,,Sul,2012,4,4.0
+Região,4,Sul,,Sul,2013,1,4.8
+Região,4,Sul,,Sul,2013,2,4.3
+Região,4,Sul,,Sul,2013,3,4.2
+Região,4,Sul,,Sul,2013,4,3.9
+Região,4,Sul,,Sul,2014,1,4.4
+Região,4,Sul,,Sul,2014,2,4.2
+Região,4,Sul,,Sul,2014,3,4.3
+Região,4,Sul,,Sul,2014,4,3.8
+Região,4,Sul,,Sul,2015,1,5.2
+Região,4,Sul,,Sul,2015,2,5.6
+Região,4,Sul,,Sul,2015,3,6.1
+Região,4,Sul,,Sul,2015,4,5.8
+Região,4,Sul,,Sul,2016,1,7.4
+Região,4,Sul,,Sul,2016,2,8.1
+Região,4,Sul,,Sul,2016,3,8.0
+Região,4,Sul,,Sul,2016,4,7.8
+Região,4,Sul,,Sul,2017,1,9.3
+Região,4,Sul,,Sul,2017,2,8.5
+Região,4,Sul,,Sul,2017,3,7.9
+Região,4,Sul,,Sul,2017,4,7.7
+Região,4,Sul,,Sul,2018,1,8.5
+Região,4,Sul,,Sul,2018,2,8.2
+Região,4,Sul,,Sul,2018,3,7.9
+Região,4,Sul,,Sul,2018,4,7.4
+Região,4,Sul,,Sul,2019,1,8.2
+Região,4,Sul,,Sul,2019,2,8.1
+Região,4,Sul,,Sul,2019,3,8.2
+Região,4,Sul,,Sul,2019,4,6.8
+Região,4,Sul,,Sul,2020,1,7.6
+Região,4,Sul,,Sul,2020,2,9.0
+Região,4,Sul,,Sul,2020,3,9.5
+Região,4,Sul,,Sul,2020,4,8.4
+Região,4,Sul,,Sul,2021,1,8.7
+Região,4,Sul,,Sul,2021,2,8.2
+Região,4,Sul,,Sul,2021,3,7.5
+Região,4,Sul,,Sul,2021,4,6.7
+Região,4,Sul,,Sul,2022,1,6.5
+Região,4,Sul,,Sul,2022,2,5.6
+Região,4,Sul,,Sul,2022,3,5.2
+Região,4,Sul,,Sul,2022,4,4.5
+Região,4,Sul,,Sul,2023,1,5.0
+Região,4,Sul,,Sul,2023,2,4.7
+Região,4,Sul,,Sul,2023,3,4.6
+Região,4,Sul,,Sul,2023,4,4.5
+Região,4,Sul,,Sul,2024,1,4.9
+Região,4,Sul,,Sul,2024,2,4.6
+Região,4,Sul,,Sul,2024,3,4.1
+Região,4,Sul,,Sul,2024,4,3.6
+Região,4,Sul,,Sul,2025,1,4.2
+Região,4,Sul,,Sul,2025,2,3.6
+Região,4,Sul,,Sul,2025,3,3.4
+Região,4,Sul,,Sul,2025,4,3.1
+Região,4,Sul,,Sul,2026,1,3.5
+Região,4,Sul,,Sul,2026,2,3.2
+Região,5,Centro-Oeste,,Centro-Oeste,2012,1,7.1
+Região,5,Centro-Oeste,,Centro-Oeste,2012,2,6.3
+Região,5,Centro-Oeste,,Centro-Oeste,2012,3,5.7
+Região,5,Centro-Oeste,,Centro-Oeste,2012,4,5.7
+Região,5,Centro-Oeste,,Centro-Oeste,2013,1,6.8
+Região,5,Centro-Oeste,,Centro-Oeste,2013,2,6.0
+Região,5,Centro-Oeste,,Centro-Oeste,2013,3,5.5
+Região,5,Centro-Oeste,,Centro-Oeste,2013,4,4.9
+Região,5,Centro-Oeste,,Centro-Oeste,2014,1,5.9
+Região,5,Centro-Oeste,,Centro-Oeste,2014,2,5.6
+Região,5,Centro-Oeste,,Centro-Oeste,2014,3,5.4
+Região,5,Centro-Oeste,,Centro-Oeste,2014,4,5.4
+Região,5,Centro-Oeste,,Centro-Oeste,2015,1,7.4
+Região,5,Centro-Oeste,,Centro-Oeste,2015,2,7.5
+Região,5,Centro-Oeste,,Centro-Oeste,2015,3,7.6
+Região,5,Centro-Oeste,,Centro-Oeste,2015,4,7.5
+Região,5,Centro-Oeste,,Centro-Oeste,2016,1,9.8
+Região,5,Centro-Oeste,,Centro-Oeste,2016,2,9.8
+Região,5,Centro-Oeste,,Centro-Oeste,2016,3,10.1
+Região,5,Centro-Oeste,,Centro-Oeste,2016,4,11.0
+Região,5,Centro-Oeste,,Centro-Oeste,2017,1,12.2
+Região,5,Centro-Oeste,,Centro-Oeste,2017,2,10.7
+Região,5,Centro-Oeste,,Centro-Oeste,2017,3,9.7
+Região,5,Centro-Oeste,,Centro-Oeste,2017,4,9.4
+Região,5,Centro-Oeste,,Centro-Oeste,2018,1,10.6
+Região,5,Centro-Oeste,,Centro-Oeste,2018,2,9.5
+Região,5,Centro-Oeste,,Centro-Oeste,2018,3,9.0
+Região,5,Centro-Oeste,,Centro-Oeste,2018,4,8.5
+Região,5,Centro-Oeste,,Centro-Oeste,2019,1,10.9
+Região,5,Centro-Oeste,,Centro-Oeste,2019,2,10.4
+Região,5,Centro-Oeste,,Centro-Oeste,2019,3,10.3
+Região,5,Centro-Oeste,,Centro-Oeste,2019,4,9.5
+Região,5,Centro-Oeste,,Centro-Oeste,2020,1,10.7
+Região,5,Centro-Oeste,,Centro-Oeste,2020,2,12.7
+Região,5,Centro-Oeste,,Centro-Oeste,2020,3,13.0
+Região,5,Centro-Oeste,,Centro-Oeste,2020,4,12.1
+Região,5,Centro-Oeste,,Centro-Oeste,2021,1,12.8
+Região,5,Centro-Oeste,,Centro-Oeste,2021,2,11.7
+Região,5,Centro-Oeste,,Centro-Oeste,2021,3,9.8
+Região,5,Centro-Oeste,,Centro-Oeste,2021,4,8.4
+Região,5,Centro-Oeste,,Centro-Oeste,2022,1,8.5
+Região,5,Centro-Oeste,,Centro-Oeste,2022,2,7.0
+Região,5,Centro-Oeste,,Centro-Oeste,2022,3,6.4
+Região,5,Centro-Oeste,,Centro-Oeste,2022,4,6.2
+Região,5,Centro-Oeste,,Centro-Oeste,2023,1,7.0
+Região,5,Centro-Oeste,,Centro-Oeste,2023,2,5.7
+Região,5,Centro-Oeste,,Centro-Oeste,2023,3,5.4
+Região,5,Centro-Oeste,,Centro-Oeste,2023,4,5.7
+Região,5,Centro-Oeste,,Centro-Oeste,2024,1,6.0
+Região,5,Centro-Oeste,,Centro-Oeste,2024,2,5.4
+Região,5,Centro-Oeste,,Centro-Oeste,2024,3,4.9
+Região,5,Centro-Oeste,,Centro-Oeste,2024,4,4.9
+Região,5,Centro-Oeste,,Centro-Oeste,2025,1,5.4
+Região,5,Centro-Oeste,,Centro-Oeste,2025,2,4.6
+Região,5,Centro-Oeste,,Centro-Oeste,2025,3,4.4
+Região,5,Centro-Oeste,,Centro-Oeste,2025,4,3.9
+Região,5,Centro-Oeste,,Centro-Oeste,2026,1,4.8
+Região,5,Centro-Oeste,,Centro-Oeste,2026,2,3.8
+UF,11,Rondônia,RO,Norte,2012,1,8.1
+UF,11,Rondônia,RO,Norte,2012,2,6.3
+UF,11,Rondônia,RO,Norte,2012,3,5.9
+UF,11,Rondônia,RO,Norte,2012,4,5.2
+UF,11,Rondônia,RO,Norte,2013,1,6.2
+UF,11,Rondônia,RO,Norte,2013,2,4.8
+UF,11,Rondônia,RO,Norte,2013,3,4.6
+UF,11,Rondônia,RO,Norte,2013,4,4.9
+UF,11,Rondônia,RO,Norte,2014,1,5.0
+UF,11,Rondônia,RO,Norte,2014,2,4.2
+UF,11,Rondônia,RO,Norte,2014,3,4.2
+UF,11,Rondônia,RO,Norte,2014,4,3.6
+UF,11,Rondônia,RO,Norte,2015,1,4.5
+UF,11,Rondônia,RO,Norte,2015,2,4.9
+UF,11,Rondônia,RO,Norte,2015,3,6.7
+UF,11,Rondônia,RO,Norte,2015,4,6.5
+UF,11,Rondônia,RO,Norte,2016,1,7.6
+UF,11,Rondônia,RO,Norte,2016,2,7.9
+UF,11,Rondônia,RO,Norte,2016,3,8.5
+UF,11,Rondônia,RO,Norte,2016,4,8.0
+UF,11,Rondônia,RO,Norte,2017,1,8.1
+UF,11,Rondônia,RO,Norte,2017,2,9.1
+UF,11,Rondônia,RO,Norte,2017,3,8.2
+UF,11,Rondônia,RO,Norte,2017,4,7.6
+UF,11,Rondônia,RO,Norte,2018,1,10.5
+UF,11,Rondônia,RO,Norte,2018,2,8.3
+UF,11,Rondônia,RO,Norte,2018,3,8.8
+UF,11,Rondônia,RO,Norte,2018,4,9.1
+UF,11,Rondônia,RO,Norte,2019,1,9.1
+UF,11,Rondônia,RO,Norte,2019,2,6.8
+UF,11,Rondônia,RO,Norte,2019,3,8.3
+UF,11,Rondônia,RO,Norte,2019,4,8.2
+UF,11,Rondônia,RO,Norte,2020,1,8.5
+UF,11,Rondônia,RO,Norte,2020,2,11.0
+UF,11,Rondônia,RO,Norte,2020,3,11.7
+UF,11,Rondônia,RO,Norte,2020,4,11.1
+UF,11,Rondônia,RO,Norte,2021,1,11.3
+UF,11,Rondônia,RO,Norte,2021,2,9.8
+UF,11,Rondônia,RO,Norte,2021,3,7.7
+UF,11,Rondônia,RO,Norte,2021,4,6.8
+UF,11,Rondônia,RO,Norte,2022,1,6.8
+UF,11,Rondônia,RO,Norte,2022,2,5.7
+UF,11,Rondônia,RO,Norte,2022,3,3.9
+UF,11,Rondônia,RO,Norte,2022,4,3.1
+UF,11,Rondônia,RO,Norte,2023,1,3.1
+UF,11,Rondônia,RO,Norte,2023,2,2.3
+UF,11,Rondônia,RO,Norte,2023,3,2.3
+UF,11,Rondônia,RO,Norte,2023,4,3.7
+UF,11,Rondônia,RO,Norte,2024,1,3.7
+UF,11,Rondônia,RO,Norte,2024,2,3.2
+UF,11,Rondônia,RO,Norte,2024,3,2.1
+UF,11,Rondônia,RO,Norte,2024,4,2.8
+UF,11,Rondônia,RO,Norte,2025,1,3.1
+UF,11,Rondônia,RO,Norte,2025,2,2.3
+UF,11,Rondônia,RO,Norte,2025,3,2.6
+UF,11,Rondônia,RO,Norte,2025,4,2.6
+UF,11,Rondônia,RO,Norte,2026,1,3.7
+UF,11,Rondônia,RO,Norte,2026,2,2.6
+UF,12,Acre,AC,Norte,2012,1,9.2
+UF,12,Acre,AC,Norte,2012,2,9.0
+UF,12,Acre,AC,Norte,2012,3,7.7
+UF,12,Acre,AC,Norte,2012,4,8.2
+UF,12,Acre,AC,Norte,2013,1,10.9
+UF,12,Acre,AC,Norte,2013,2,9.5
+UF,12,Acre,AC,Norte,2013,3,8.9
+UF,12,Acre,AC,Norte,2013,4,7.0
+UF,12,Acre,AC,Norte,2014,1,8.1
+UF,12,Acre,AC,Norte,2014,2,9.7
+UF,12,Acre,AC,Norte,2014,3,7.0
+UF,12,Acre,AC,Norte,2014,4,6.3
+UF,12,Acre,AC,Norte,2015,1,8.8
+UF,12,Acre,AC,Norte,2015,2,8.9
+UF,12,Acre,AC,Norte,2015,3,8.9
+UF,12,Acre,AC,Norte,2015,4,7.7
+UF,12,Acre,AC,Norte,2016,1,8.8
+UF,12,Acre,AC,Norte,2016,2,11.1
+UF,12,Acre,AC,Norte,2016,3,12.2
+UF,12,Acre,AC,Norte,2016,4,11.7
+UF,12,Acre,AC,Norte,2017,1,15.9
+UF,12,Acre,AC,Norte,2017,2,15.0
+UF,12,Acre,AC,Norte,2017,3,13.7
+UF,12,Acre,AC,Norte,2017,4,12.3
+UF,12,Acre,AC,Norte,2018,1,14.6
+UF,12,Acre,AC,Norte,2018,2,13.7
+UF,12,Acre,AC,Norte,2018,3,13.3
+UF,12,Acre,AC,Norte,2018,4,13.3
+UF,12,Acre,AC,Norte,2019,1,18.2
+UF,12,Acre,AC,Norte,2019,2,13.8
+UF,12,Acre,AC,Norte,2019,3,13.1
+UF,12,Acre,AC,Norte,2019,4,13.8
+UF,12,Acre,AC,Norte,2020,1,13.7
+UF,12,Acre,AC,Norte,2020,2,14.4
+UF,12,Acre,AC,Norte,2020,3,17.2
+UF,12,Acre,AC,Norte,2020,4,15.7
+UF,12,Acre,AC,Norte,2021,1,17.9
+UF,12,Acre,AC,Norte,2021,2,16.3
+UF,12,Acre,AC,Norte,2021,3,13.8
+UF,12,Acre,AC,Norte,2021,4,13.2
+UF,12,Acre,AC,Norte,2022,1,14.7
+UF,12,Acre,AC,Norte,2022,2,11.8
+UF,12,Acre,AC,Norte,2022,3,10.0
+UF,12,Acre,AC,Norte,2022,4,9.8
+UF,12,Acre,AC,Norte,2023,1,9.7
+UF,12,Acre,AC,Norte,2023,2,9.2
+UF,12,Acre,AC,Norte,2023,3,6.2
+UF,12,Acre,AC,Norte,2023,4,6.7
+UF,12,Acre,AC,Norte,2024,1,8.9
+UF,12,Acre,AC,Norte,2024,2,7.2
+UF,12,Acre,AC,Norte,2024,3,7.4
+UF,12,Acre,AC,Norte,2024,4,7.3
+UF,12,Acre,AC,Norte,2025,1,8.2
+UF,12,Acre,AC,Norte,2025,2,7.3
+UF,12,Acre,AC,Norte,2025,3,7.4
+UF,12,Acre,AC,Norte,2025,4,6.4
+UF,12,Acre,AC,Norte,2026,1,8.2
+UF,12,Acre,AC,Norte,2026,2,6.6
+UF,13,Amazonas,AM,Norte,2012,1,11.1
+UF,13,Amazonas,AM,Norte,2012,2,9.1
+UF,13,Amazonas,AM,Norte,2012,3,9.5
+UF,13,Amazonas,AM,Norte,2012,4,8.3
+UF,13,Amazonas,AM,Norte,2013,1,10.4
+UF,13,Amazonas,AM,Norte,2013,2,10.3
+UF,13,Amazonas,AM,Norte,2013,3,8.4
+UF,13,Amazonas,AM,Norte,2013,4,7.7
+UF,13,Amazonas,AM,Norte,2014,1,8.3
+UF,13,Amazonas,AM,Norte,2014,2,8.4
+UF,13,Amazonas,AM,Norte,2014,3,6.8
+UF,13,Amazonas,AM,Norte,2014,4,7.9
+UF,13,Amazonas,AM,Norte,2015,1,9.5
+UF,13,Amazonas,AM,Norte,2015,2,9.7
+UF,13,Amazonas,AM,Norte,2015,3,10.3
+UF,13,Amazonas,AM,Norte,2015,4,9.3
+UF,13,Amazonas,AM,Norte,2016,1,13.0
+UF,13,Amazonas,AM,Norte,2016,2,13.5
+UF,13,Amazonas,AM,Norte,2016,3,13.8
+UF,13,Amazonas,AM,Norte,2016,4,15.1
+UF,13,Amazonas,AM,Norte,2017,1,18.0
+UF,13,Amazonas,AM,Norte,2017,2,15.6
+UF,13,Amazonas,AM,Norte,2017,3,16.3
+UF,13,Amazonas,AM,Norte,2017,4,13.6
+UF,13,Amazonas,AM,Norte,2018,1,14.0
+UF,13,Amazonas,AM,Norte,2018,2,14.3
+UF,13,Amazonas,AM,Norte,2018,3,13.2
+UF,13,Amazonas,AM,Norte,2018,4,14.6
+UF,13,Amazonas,AM,Norte,2019,1,16.1
+UF,13,Amazonas,AM,Norte,2019,2,14.0
+UF,13,Amazonas,AM,Norte,2019,3,13.5
+UF,13,Amazonas,AM,Norte,2019,4,13.1
+UF,13,Amazonas,AM,Norte,2020,1,14.7
+UF,13,Amazonas,AM,Norte,2020,2,16.6
+UF,13,Amazonas,AM,Norte,2020,3,16.9
+UF,13,Amazonas,AM,Norte,2020,4,15.7
+UF,13,Amazonas,AM,Norte,2021,1,17.7
+UF,13,Amazonas,AM,Norte,2021,2,15.8
+UF,13,Amazonas,AM,Norte,2021,3,13.5
+UF,13,Amazonas,AM,Norte,2021,4,13.1
+UF,13,Amazonas,AM,Norte,2022,1,13.1
+UF,13,Amazonas,AM,Norte,2022,2,10.5
+UF,13,Amazonas,AM,Norte,2022,3,9.4
+UF,13,Amazonas,AM,Norte,2022,4,10.1
+UF,13,Amazonas,AM,Norte,2023,1,10.5
+UF,13,Amazonas,AM,Norte,2023,2,9.7
+UF,13,Amazonas,AM,Norte,2023,3,9.6
+UF,13,Amazonas,AM,Norte,2023,4,8.8
+UF,13,Amazonas,AM,Norte,2024,1,9.8
+UF,13,Amazonas,AM,Norte,2024,2,8.0
+UF,13,Amazonas,AM,Norte,2024,3,8.2
+UF,13,Amazonas,AM,Norte,2024,4,8.3
+UF,13,Amazonas,AM,Norte,2025,1,10.0
+UF,13,Amazonas,AM,Norte,2025,2,7.7
+UF,13,Amazonas,AM,Norte,2025,3,7.6
+UF,13,Amazonas,AM,Norte,2025,4,7.3
+UF,13,Amazonas,AM,Norte,2026,1,8.3
+UF,13,Amazonas,AM,Norte,2026,2,7.5
+UF,14,Roraima,RR,Norte,2012,1,8.5
+UF,14,Roraima,RR,Norte,2012,2,5.9
+UF,14,Roraima,RR,Norte,2012,3,7.5
+UF,14,Roraima,RR,Norte,2012,4,8.4
+UF,14,Roraima,RR,Norte,2013,1,8.9
+UF,14,Roraima,RR,Norte,2013,2,8.7
+UF,14,Roraima,RR,Norte,2013,3,8.0
+UF,14,Roraima,RR,Norte,2013,4,6.7
+UF,14,Roraima,RR,Norte,2014,1,7.7
+UF,14,Roraima,RR,Norte,2014,2,5.5
+UF,14,Roraima,RR,Norte,2014,3,6.4
+UF,14,Roraima,RR,Norte,2014,4,6.5
+UF,14,Roraima,RR,Norte,2015,1,9.1
+UF,14,Roraima,RR,Norte,2015,2,7.9
+UF,14,Roraima,RR,Norte,2015,3,9.4
+UF,14,Roraima,RR,Norte,2015,4,8.2
+UF,14,Roraima,RR,Norte,2016,1,8.4
+UF,14,Roraima,RR,Norte,2016,2,8.1
+UF,14,Roraima,RR,Norte,2016,3,9.9
+UF,14,Roraima,RR,Norte,2016,4,9.3
+UF,14,Roraima,RR,Norte,2017,1,10.4
+UF,14,Roraima,RR,Norte,2017,2,10.9
+UF,14,Roraima,RR,Norte,2017,3,9.2
+UF,14,Roraima,RR,Norte,2017,4,9.6
+UF,14,Roraima,RR,Norte,2018,1,10.5
+UF,14,Roraima,RR,Norte,2018,2,11.5
+UF,14,Roraima,RR,Norte,2018,3,13.6
+UF,14,Roraima,RR,Norte,2018,4,14.2
+UF,14,Roraima,RR,Norte,2019,1,15.3
+UF,14,Roraima,RR,Norte,2019,2,15.1
+UF,14,Roraima,RR,Norte,2019,3,15.0
+UF,14,Roraima,RR,Norte,2019,4,15.0
+UF,14,Roraima,RR,Norte,2020,1,16.7
+UF,14,Roraima,RR,Norte,2020,2,16.9
+UF,14,Roraima,RR,Norte,2020,3,19.0
+UF,14,Roraima,RR,Norte,2020,4,14.5
+UF,14,Roraima,RR,Norte,2021,1,14.4
+UF,14,Roraima,RR,Norte,2021,2,14.1
+UF,14,Roraima,RR,Norte,2021,3,10.6
+UF,14,Roraima,RR,Norte,2021,4,9.2
+UF,14,Roraima,RR,Norte,2022,1,8.8
+UF,14,Roraima,RR,Norte,2022,2,6.2
+UF,14,Roraima,RR,Norte,2022,3,4.9
+UF,14,Roraima,RR,Norte,2022,4,4.6
+UF,14,Roraima,RR,Norte,2023,1,6.7
+UF,14,Roraima,RR,Norte,2023,2,5.1
+UF,14,Roraima,RR,Norte,2023,3,7.7
+UF,14,Roraima,RR,Norte,2023,4,7.1
+UF,14,Roraima,RR,Norte,2024,1,7.7
+UF,14,Roraima,RR,Norte,2024,2,7.1
+UF,14,Roraima,RR,Norte,2024,3,6.2
+UF,14,Roraima,RR,Norte,2024,4,6.6
+UF,14,Roraima,RR,Norte,2025,1,7.5
+UF,14,Roraima,RR,Norte,2025,2,5.9
+UF,14,Roraima,RR,Norte,2025,3,4.7
+UF,14,Roraima,RR,Norte,2025,4,4.7
+UF,14,Roraima,RR,Norte,2026,1,5.7
+UF,14,Roraima,RR,Norte,2026,2,5.0
+UF,15,Pará,PA,Norte,2012,1,8.0
+UF,15,Pará,PA,Norte,2012,2,7.9
+UF,15,Pará,PA,Norte,2012,3,7.2
+UF,15,Pará,PA,Norte,2012,4,6.9
+UF,15,Pará,PA,Norte,2013,1,7.8
+UF,15,Pará,PA,Norte,2013,2,7.7
+UF,15,Pará,PA,Norte,2013,3,7.7
+UF,15,Pará,PA,Norte,2013,4,6.1
+UF,15,Pará,PA,Norte,2014,1,7.7
+UF,15,Pará,PA,Norte,2014,2,7.1
+UF,15,Pará,PA,Norte,2014,3,7.2
+UF,15,Pará,PA,Norte,2014,4,7.1
+UF,15,Pará,PA,Norte,2015,1,9.3
+UF,15,Pará,PA,Norte,2015,2,9.1
+UF,15,Pará,PA,Norte,2015,3,8.5
+UF,15,Pará,PA,Norte,2015,4,8.7
+UF,15,Pará,PA,Norte,2016,1,10.1
+UF,15,Pará,PA,Norte,2016,2,10.9
+UF,15,Pará,PA,Norte,2016,3,11.1
+UF,15,Pará,PA,Norte,2016,4,12.9
+UF,15,Pará,PA,Norte,2017,1,13.9
+UF,15,Pará,PA,Norte,2017,2,11.5
+UF,15,Pará,PA,Norte,2017,3,11.1
+UF,15,Pará,PA,Norte,2017,4,10.7
+UF,15,Pará,PA,Norte,2018,1,12.2
+UF,15,Pará,PA,Norte,2018,2,11.3
+UF,15,Pará,PA,Norte,2018,3,11.0
+UF,15,Pará,PA,Norte,2018,4,10.3
+UF,15,Pará,PA,Norte,2019,1,11.6
+UF,15,Pará,PA,Norte,2019,2,11.3
+UF,15,Pará,PA,Norte,2019,3,11.3
+UF,15,Pará,PA,Norte,2019,4,9.2
+UF,15,Pará,PA,Norte,2020,1,10.7
+UF,15,Pará,PA,Norte,2020,2,9.3
+UF,15,Pará,PA,Norte,2020,3,11.1
+UF,15,Pará,PA,Norte,2020,4,10.9
+UF,15,Pará,PA,Norte,2021,1,13.8
+UF,15,Pará,PA,Norte,2021,2,13.5
+UF,15,Pará,PA,Norte,2021,3,11.8
+UF,15,Pará,PA,Norte,2021,4,10.9
+UF,15,Pará,PA,Norte,2022,1,12.1
+UF,15,Pará,PA,Norte,2022,2,9.1
+UF,15,Pará,PA,Norte,2022,3,8.8
+UF,15,Pará,PA,Norte,2022,4,8.2
+UF,15,Pará,PA,Norte,2023,1,9.8
+UF,15,Pará,PA,Norte,2023,2,8.5
+UF,15,Pará,PA,Norte,2023,3,8.0
+UF,15,Pará,PA,Norte,2023,4,7.8
+UF,15,Pará,PA,Norte,2024,1,8.5
+UF,15,Pará,PA,Norte,2024,2,7.4
+UF,15,Pará,PA,Norte,2024,3,6.9
+UF,15,Pará,PA,Norte,2024,4,7.2
+UF,15,Pará,PA,Norte,2025,1,8.7
+UF,15,Pará,PA,Norte,2025,2,6.9
+UF,15,Pará,PA,Norte,2025,3,6.5
+UF,15,Pará,PA,Norte,2025,4,5.8
+UF,15,Pará,PA,Norte,2026,1,7.0
+UF,15,Pará,PA,Norte,2026,2,6.2
+UF,16,Amapá,AP,Norte,2012,1,12.6
+UF,16,Amapá,AP,Norte,2012,2,14.7
+UF,16,Amapá,AP,Norte,2012,3,14.2
+UF,16,Amapá,AP,Norte,2012,4,12.0
+UF,16,Amapá,AP,Norte,2013,1,11.5
+UF,16,Amapá,AP,Norte,2013,2,14.4
+UF,16,Amapá,AP,Norte,2013,3,10.9
+UF,16,Amapá,AP,Norte,2013,4,9.2
+UF,16,Amapá,AP,Norte,2014,1,11.4
+UF,16,Amapá,AP,Norte,2014,2,9.9
+UF,16,Amapá,AP,Norte,2014,3,10.7
+UF,16,Amapá,AP,Norte,2014,4,9.6
+UF,16,Amapá,AP,Norte,2015,1,9.7
+UF,16,Amapá,AP,Norte,2015,2,10.3
+UF,16,Amapá,AP,Norte,2015,3,11.9
+UF,16,Amapá,AP,Norte,2015,4,13.0
+UF,16,Amapá,AP,Norte,2016,1,14.8
+UF,16,Amapá,AP,Norte,2016,2,16.2
+UF,16,Amapá,AP,Norte,2016,3,15.1
+UF,16,Amapá,AP,Norte,2016,4,17.0
+UF,16,Amapá,AP,Norte,2017,1,18.8
+UF,16,Amapá,AP,Norte,2017,2,17.6
+UF,16,Amapá,AP,Norte,2017,3,17.0
+UF,16,Amapá,AP,Norte,2017,4,18.9
+UF,16,Amapá,AP,Norte,2018,1,21.6
+UF,16,Amapá,AP,Norte,2018,2,21.6
+UF,16,Amapá,AP,Norte,2018,3,18.4
+UF,16,Amapá,AP,Norte,2018,4,19.8
+UF,16,Amapá,AP,Norte,2019,1,20.3
+UF,16,Amapá,AP,Norte,2019,2,17.2
+UF,16,Amapá,AP,Norte,2019,3,16.9
+UF,16,Amapá,AP,Norte,2019,4,15.8
+UF,16,Amapá,AP,Norte,2020,1,17.4
+UF,16,Amapá,AP,Norte,2020,2,11.3
+UF,16,Amapá,AP,Norte,2020,3,15.3
+UF,16,Amapá,AP,Norte,2020,4,15.9
+UF,16,Amapá,AP,Norte,2021,1,15.3
+UF,16,Amapá,AP,Norte,2021,2,16.1
+UF,16,Amapá,AP,Norte,2021,3,17.4
+UF,16,Amapá,AP,Norte,2021,4,17.4
+UF,16,Amapá,AP,Norte,2022,1,14.3
+UF,16,Amapá,AP,Norte,2022,2,11.4
+UF,16,Amapá,AP,Norte,2022,3,10.8
+UF,16,Amapá,AP,Norte,2022,4,13.4
+UF,16,Amapá,AP,Norte,2023,1,12.2
+UF,16,Amapá,AP,Norte,2023,2,12.3
+UF,16,Amapá,AP,Norte,2023,3,12.4
+UF,16,Amapá,AP,Norte,2023,4,14.1
+UF,16,Amapá,AP,Norte,2024,1,10.9
+UF,16,Amapá,AP,Norte,2024,2,8.9
+UF,16,Amapá,AP,Norte,2024,3,8.3
+UF,16,Amapá,AP,Norte,2024,4,8.7
+UF,16,Amapá,AP,Norte,2025,1,8.6
+UF,16,Amapá,AP,Norte,2025,2,6.9
+UF,16,Amapá,AP,Norte,2025,3,8.7
+UF,16,Amapá,AP,Norte,2025,4,8.4
+UF,16,Amapá,AP,Norte,2026,1,10.0
+UF,16,Amapá,AP,Norte,2026,2,9.8
+UF,17,Tocantins,TO,Norte,2012,1,8.4
+UF,17,Tocantins,TO,Norte,2012,2,7.7
+UF,17,Tocantins,TO,Norte,2012,3,7.3
+UF,17,Tocantins,TO,Norte,2012,4,7.7
+UF,17,Tocantins,TO,Norte,2013,1,9.3
+UF,17,Tocantins,TO,Norte,2013,2,8.2
+UF,17,Tocantins,TO,Norte,2013,3,6.2
+UF,17,Tocantins,TO,Norte,2013,4,6.5
+UF,17,Tocantins,TO,Norte,2014,1,8.6
+UF,17,Tocantins,TO,Norte,2014,2,7.8
+UF,17,Tocantins,TO,Norte,2014,3,7.7
+UF,17,Tocantins,TO,Norte,2014,4,6.4
+UF,17,Tocantins,TO,Norte,2015,1,8.8
+UF,17,Tocantins,TO,Norte,2015,2,7.7
+UF,17,Tocantins,TO,Norte,2015,3,9.3
+UF,17,Tocantins,TO,Norte,2015,4,9.0
+UF,17,Tocantins,TO,Norte,2016,1,10.8
+UF,17,Tocantins,TO,Norte,2016,2,11.2
+UF,17,Tocantins,TO,Norte,2016,3,10.8
+UF,17,Tocantins,TO,Norte,2016,4,13.2
+UF,17,Tocantins,TO,Norte,2017,1,12.7
+UF,17,Tocantins,TO,Norte,2017,2,11.7
+UF,17,Tocantins,TO,Norte,2017,3,11.9
+UF,17,Tocantins,TO,Norte,2017,4,10.6
+UF,17,Tocantins,TO,Norte,2018,1,11.1
+UF,17,Tocantins,TO,Norte,2018,2,11.4
+UF,17,Tocantins,TO,Norte,2018,3,9.9
+UF,17,Tocantins,TO,Norte,2018,4,10.5
+UF,17,Tocantins,TO,Norte,2019,1,12.5
+UF,17,Tocantins,TO,Norte,2019,2,11.5
+UF,17,Tocantins,TO,Norte,2019,3,10.6
+UF,17,Tocantins,TO,Norte,2019,4,9.3
+UF,17,Tocantins,TO,Norte,2020,1,11.5
+UF,17,Tocantins,TO,Norte,2020,2,12.8
+UF,17,Tocantins,TO,Norte,2020,3,12.6
+UF,17,Tocantins,TO,Norte,2020,4,11.3
+UF,17,Tocantins,TO,Norte,2021,1,17.1
+UF,17,Tocantins,TO,Norte,2021,2,15.9
+UF,17,Tocantins,TO,Norte,2021,3,10.8
+UF,17,Tocantins,TO,Norte,2021,4,9.6
+UF,17,Tocantins,TO,Norte,2022,1,9.3
+UF,17,Tocantins,TO,Norte,2022,2,5.5
+UF,17,Tocantins,TO,Norte,2022,3,5.6
+UF,17,Tocantins,TO,Norte,2022,4,5.2
+UF,17,Tocantins,TO,Norte,2023,1,6.9
+UF,17,Tocantins,TO,Norte,2023,2,6.5
+UF,17,Tocantins,TO,Norte,2023,3,5.3
+UF,17,Tocantins,TO,Norte,2023,4,5.8
+UF,17,Tocantins,TO,Norte,2024,1,6.1
+UF,17,Tocantins,TO,Norte,2024,2,4.3
+UF,17,Tocantins,TO,Norte,2024,3,5.1
+UF,17,Tocantins,TO,Norte,2024,4,5.1
+UF,17,Tocantins,TO,Norte,2025,1,6.4
+UF,17,Tocantins,TO,Norte,2025,2,5.3
+UF,17,Tocantins,TO,Norte,2025,3,3.8
+UF,17,Tocantins,TO,Norte,2025,4,4.0
+UF,17,Tocantins,TO,Norte,2026,1,5.6
+UF,17,Tocantins,TO,Norte,2026,2,4.1
+UF,21,Maranhão,MA,Nordeste,2012,1,7.9
+UF,21,Maranhão,MA,Nordeste,2012,2,9.3
+UF,21,Maranhão,MA,Nordeste,2012,3,7.8
+UF,21,Maranhão,MA,Nordeste,2012,4,7.6
+UF,21,Maranhão,MA,Nordeste,2013,1,9.5
+UF,21,Maranhão,MA,Nordeste,2013,2,9.4
+UF,21,Maranhão,MA,Nordeste,2013,3,7.5
+UF,21,Maranhão,MA,Nordeste,2013,4,5.6
+UF,21,Maranhão,MA,Nordeste,2014,1,6.5
+UF,21,Maranhão,MA,Nordeste,2014,2,7.3
+UF,21,Maranhão,MA,Nordeste,2014,3,6.8
+UF,21,Maranhão,MA,Nordeste,2014,4,7.2
+UF,21,Maranhão,MA,Nordeste,2015,1,9.0
+UF,21,Maranhão,MA,Nordeste,2015,2,9.0
+UF,21,Maranhão,MA,Nordeste,2015,3,8.6
+UF,21,Maranhão,MA,Nordeste,2015,4,8.4
+UF,21,Maranhão,MA,Nordeste,2016,1,11.2
+UF,21,Maranhão,MA,Nordeste,2016,2,12.1
+UF,21,Maranhão,MA,Nordeste,2016,3,12.1
+UF,21,Maranhão,MA,Nordeste,2016,4,13.2
+UF,21,Maranhão,MA,Nordeste,2017,1,15.2
+UF,21,Maranhão,MA,Nordeste,2017,2,14.8
+UF,21,Maranhão,MA,Nordeste,2017,3,14.6
+UF,21,Maranhão,MA,Nordeste,2017,4,13.5
+UF,21,Maranhão,MA,Nordeste,2018,1,15.9
+UF,21,Maranhão,MA,Nordeste,2018,2,14.5
+UF,21,Maranhão,MA,Nordeste,2018,3,14.1
+UF,21,Maranhão,MA,Nordeste,2018,4,14.4
+UF,21,Maranhão,MA,Nordeste,2019,1,16.7
+UF,21,Maranhão,MA,Nordeste,2019,2,15.0
+UF,21,Maranhão,MA,Nordeste,2019,3,14.4
+UF,21,Maranhão,MA,Nordeste,2019,4,12.5
+UF,21,Maranhão,MA,Nordeste,2020,1,16.5
+UF,21,Maranhão,MA,Nordeste,2020,2,16.7
+UF,21,Maranhão,MA,Nordeste,2020,3,17.5
+UF,21,Maranhão,MA,Nordeste,2020,4,14.8
+UF,21,Maranhão,MA,Nordeste,2021,1,17.6
+UF,21,Maranhão,MA,Nordeste,2021,2,17.8
+UF,21,Maranhão,MA,Nordeste,2021,3,15.3
+UF,21,Maranhão,MA,Nordeste,2021,4,13.6
+UF,21,Maranhão,MA,Nordeste,2022,1,13.2
+UF,21,Maranhão,MA,Nordeste,2022,2,10.8
+UF,21,Maranhão,MA,Nordeste,2022,3,9.6
+UF,21,Maranhão,MA,Nordeste,2022,4,8.4
+UF,21,Maranhão,MA,Nordeste,2023,1,10.0
+UF,21,Maranhão,MA,Nordeste,2023,2,8.9
+UF,21,Maranhão,MA,Nordeste,2023,3,6.8
+UF,21,Maranhão,MA,Nordeste,2023,4,7.2
+UF,21,Maranhão,MA,Nordeste,2024,1,8.5
+UF,21,Maranhão,MA,Nordeste,2024,2,7.3
+UF,21,Maranhão,MA,Nordeste,2024,3,7.6
+UF,21,Maranhão,MA,Nordeste,2024,4,6.9
+UF,21,Maranhão,MA,Nordeste,2025,1,8.1
+UF,21,Maranhão,MA,Nordeste,2025,2,6.6
+UF,21,Maranhão,MA,Nordeste,2025,3,6.1
+UF,21,Maranhão,MA,Nordeste,2025,4,5.6
+UF,21,Maranhão,MA,Nordeste,2026,1,6.9
+UF,21,Maranhão,MA,Nordeste,2026,2,6.0
+UF,22,Piauí,PI,Nordeste,2012,1,7.7
+UF,22,Piauí,PI,Nordeste,2012,2,7.1
+UF,22,Piauí,PI,Nordeste,2012,3,6.2
+UF,22,Piauí,PI,Nordeste,2012,4,7.0
+UF,22,Piauí,PI,Nordeste,2013,1,8.4
+UF,22,Piauí,PI,Nordeste,2013,2,7.5
+UF,22,Piauí,PI,Nordeste,2013,3,7.5
+UF,22,Piauí,PI,Nordeste,2013,4,7.0
+UF,22,Piauí,PI,Nordeste,2014,1,7.1
+UF,22,Piauí,PI,Nordeste,2014,2,7.1
+UF,22,Piauí,PI,Nordeste,2014,3,6.2
+UF,22,Piauí,PI,Nordeste,2014,4,6.0
+UF,22,Piauí,PI,Nordeste,2015,1,7.9
+UF,22,Piauí,PI,Nordeste,2015,2,7.7
+UF,22,Piauí,PI,Nordeste,2015,3,7.7
+UF,22,Piauí,PI,Nordeste,2015,4,7.3
+UF,22,Piauí,PI,Nordeste,2016,1,9.6
+UF,22,Piauí,PI,Nordeste,2016,2,10.1
+UF,22,Piauí,PI,Nordeste,2016,3,9.6
+UF,22,Piauí,PI,Nordeste,2016,4,8.9
+UF,22,Piauí,PI,Nordeste,2017,1,12.8
+UF,22,Piauí,PI,Nordeste,2017,2,13.6
+UF,22,Piauí,PI,Nordeste,2017,3,12.2
+UF,22,Piauí,PI,Nordeste,2017,4,13.4
+UF,22,Piauí,PI,Nordeste,2018,1,13.3
+UF,22,Piauí,PI,Nordeste,2018,2,13.5
+UF,22,Piauí,PI,Nordeste,2018,3,12.5
+UF,22,Piauí,PI,Nordeste,2018,4,12.4
+UF,22,Piauí,PI,Nordeste,2019,1,12.9
+UF,22,Piauí,PI,Nordeste,2019,2,13.0
+UF,22,Piauí,PI,Nordeste,2019,3,12.9
+UF,22,Piauí,PI,Nordeste,2019,4,13.3
+UF,22,Piauí,PI,Nordeste,2020,1,14.2
+UF,22,Piauí,PI,Nordeste,2020,2,13.3
+UF,22,Piauí,PI,Nordeste,2020,3,13.3
+UF,22,Piauí,PI,Nordeste,2020,4,12.3
+UF,22,Piauí,PI,Nordeste,2021,1,15.2
+UF,22,Piauí,PI,Nordeste,2021,2,15.4
+UF,22,Piauí,PI,Nordeste,2021,3,12.0
+UF,22,Piauí,PI,Nordeste,2021,4,11.9
+UF,22,Piauí,PI,Nordeste,2022,1,12.4
+UF,22,Piauí,PI,Nordeste,2022,2,9.4
+UF,22,Piauí,PI,Nordeste,2022,3,9.3
+UF,22,Piauí,PI,Nordeste,2022,4,9.5
+UF,22,Piauí,PI,Nordeste,2023,1,11.1
+UF,22,Piauí,PI,Nordeste,2023,2,9.7
+UF,22,Piauí,PI,Nordeste,2023,3,9.9
+UF,22,Piauí,PI,Nordeste,2023,4,10.6
+UF,22,Piauí,PI,Nordeste,2024,1,10.0
+UF,22,Piauí,PI,Nordeste,2024,2,7.6
+UF,22,Piauí,PI,Nordeste,2024,3,8.0
+UF,22,Piauí,PI,Nordeste,2024,4,7.5
+UF,22,Piauí,PI,Nordeste,2025,1,10.2
+UF,22,Piauí,PI,Nordeste,2025,2,8.5
+UF,22,Piauí,PI,Nordeste,2025,3,7.5
+UF,22,Piauí,PI,Nordeste,2025,4,8.0
+UF,22,Piauí,PI,Nordeste,2026,1,8.9
+UF,22,Piauí,PI,Nordeste,2026,2,8.3
+UF,23,Ceará,CE,Nordeste,2012,1,7.3
+UF,23,Ceará,CE,Nordeste,2012,2,8.2
+UF,23,Ceará,CE,Nordeste,2012,3,8.1
+UF,23,Ceará,CE,Nordeste,2012,4,7.5
+UF,23,Ceará,CE,Nordeste,2013,1,8.9
+UF,23,Ceará,CE,Nordeste,2013,2,8.5
+UF,23,Ceará,CE,Nordeste,2013,3,7.3
+UF,23,Ceará,CE,Nordeste,2013,4,6.9
+UF,23,Ceará,CE,Nordeste,2014,1,7.9
+UF,23,Ceará,CE,Nordeste,2014,2,7.5
+UF,23,Ceará,CE,Nordeste,2014,3,7.5
+UF,23,Ceará,CE,Nordeste,2014,4,6.6
+UF,23,Ceará,CE,Nordeste,2015,1,8.1
+UF,23,Ceará,CE,Nordeste,2015,2,8.9
+UF,23,Ceará,CE,Nordeste,2015,3,9.7
+UF,23,Ceará,CE,Nordeste,2015,4,9.1
+UF,23,Ceará,CE,Nordeste,2016,1,10.9
+UF,23,Ceará,CE,Nordeste,2016,2,11.6
+UF,23,Ceará,CE,Nordeste,2016,3,13.3
+UF,23,Ceará,CE,Nordeste,2016,4,12.6
+UF,23,Ceará,CE,Nordeste,2017,1,14.5
+UF,23,Ceará,CE,Nordeste,2017,2,13.3
+UF,23,Ceará,CE,Nordeste,2017,3,11.9
+UF,23,Ceará,CE,Nordeste,2017,4,11.2
+UF,23,Ceará,CE,Nordeste,2018,1,12.9
+UF,23,Ceará,CE,Nordeste,2018,2,11.8
+UF,23,Ceará,CE,Nordeste,2018,3,10.7
+UF,23,Ceará,CE,Nordeste,2018,4,10.2
+UF,23,Ceará,CE,Nordeste,2019,1,11.6
+UF,23,Ceará,CE,Nordeste,2019,2,11.0
+UF,23,Ceará,CE,Nordeste,2019,3,11.4
+UF,23,Ceará,CE,Nordeste,2019,4,10.3
+UF,23,Ceará,CE,Nordeste,2020,1,12.4
+UF,23,Ceará,CE,Nordeste,2020,2,12.3
+UF,23,Ceará,CE,Nordeste,2020,3,14.2
+UF,23,Ceará,CE,Nordeste,2020,4,14.4
+UF,23,Ceará,CE,Nordeste,2021,1,15.1
+UF,23,Ceará,CE,Nordeste,2021,2,15.1
+UF,23,Ceará,CE,Nordeste,2021,3,12.5
+UF,23,Ceará,CE,Nordeste,2021,4,11.1
+UF,23,Ceará,CE,Nordeste,2022,1,11.1
+UF,23,Ceará,CE,Nordeste,2022,2,10.4
+UF,23,Ceará,CE,Nordeste,2022,3,8.6
+UF,23,Ceará,CE,Nordeste,2022,4,7.8
+UF,23,Ceará,CE,Nordeste,2023,1,9.6
+UF,23,Ceará,CE,Nordeste,2023,2,8.6
+UF,23,Ceará,CE,Nordeste,2023,3,9.2
+UF,23,Ceará,CE,Nordeste,2023,4,8.8
+UF,23,Ceará,CE,Nordeste,2024,1,8.7
+UF,23,Ceará,CE,Nordeste,2024,2,7.5
+UF,23,Ceará,CE,Nordeste,2024,3,6.7
+UF,23,Ceará,CE,Nordeste,2024,4,6.5
+UF,23,Ceará,CE,Nordeste,2025,1,8.0
+UF,23,Ceará,CE,Nordeste,2025,2,6.6
+UF,23,Ceará,CE,Nordeste,2025,3,6.4
+UF,23,Ceará,CE,Nordeste,2025,4,5.0
+UF,23,Ceará,CE,Nordeste,2026,1,7.3
+UF,23,Ceará,CE,Nordeste,2026,2,6.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2012,1,11.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2012,2,11.4
+UF,24,Rio Grande do Norte,RN,Nordeste,2012,3,11.4
+UF,24,Rio Grande do Norte,RN,Nordeste,2012,4,11.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2013,1,12.2
+UF,24,Rio Grande do Norte,RN,Nordeste,2013,2,10.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2013,3,10.2
+UF,24,Rio Grande do Norte,RN,Nordeste,2013,4,9.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2014,1,11.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2014,2,11.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2014,3,10.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2014,4,10.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2015,1,11.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2015,2,11.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2015,3,12.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2015,4,12.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2016,1,14.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2016,2,13.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2016,3,14.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2016,4,14.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2017,1,16.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2017,2,15.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2017,3,13.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2017,4,12.4
+UF,24,Rio Grande do Norte,RN,Nordeste,2018,1,15.1
+UF,24,Rio Grande do Norte,RN,Nordeste,2018,2,13.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2018,3,13.0
+UF,24,Rio Grande do Norte,RN,Nordeste,2018,4,13.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2019,1,14.1
+UF,24,Rio Grande do Norte,RN,Nordeste,2019,2,12.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2019,3,13.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2019,4,12.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2020,1,15.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2020,2,15.2
+UF,24,Rio Grande do Norte,RN,Nordeste,2020,3,17.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2020,4,15.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2021,1,15.4
+UF,24,Rio Grande do Norte,RN,Nordeste,2021,2,16.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2021,3,14.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2021,4,12.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2022,1,14.2
+UF,24,Rio Grande do Norte,RN,Nordeste,2022,2,12.0
+UF,24,Rio Grande do Norte,RN,Nordeste,2022,3,10.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2022,4,10.0
+UF,24,Rio Grande do Norte,RN,Nordeste,2023,1,12.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2023,2,10.3
+UF,24,Rio Grande do Norte,RN,Nordeste,2023,3,10.1
+UF,24,Rio Grande do Norte,RN,Nordeste,2023,4,8.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2024,1,9.8
+UF,24,Rio Grande do Norte,RN,Nordeste,2024,2,9.2
+UF,24,Rio Grande do Norte,RN,Nordeste,2024,3,8.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2024,4,8.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2025,1,9.9
+UF,24,Rio Grande do Norte,RN,Nordeste,2025,2,7.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2025,3,7.5
+UF,24,Rio Grande do Norte,RN,Nordeste,2025,4,6.7
+UF,24,Rio Grande do Norte,RN,Nordeste,2026,1,7.6
+UF,24,Rio Grande do Norte,RN,Nordeste,2026,2,5.6
+UF,25,Paraíba,PB,Nordeste,2012,1,10.0
+UF,25,Paraíba,PB,Nordeste,2012,2,9.4
+UF,25,Paraíba,PB,Nordeste,2012,3,8.6
+UF,25,Paraíba,PB,Nordeste,2012,4,9.1
+UF,25,Paraíba,PB,Nordeste,2013,1,9.6
+UF,25,Paraíba,PB,Nordeste,2013,2,9.0
+UF,25,Paraíba,PB,Nordeste,2013,3,8.6
+UF,25,Paraíba,PB,Nordeste,2013,4,8.5
+UF,25,Paraíba,PB,Nordeste,2014,1,9.3
+UF,25,Paraíba,PB,Nordeste,2014,2,8.9
+UF,25,Paraíba,PB,Nordeste,2014,3,9.3
+UF,25,Paraíba,PB,Nordeste,2014,4,8.2
+UF,25,Paraíba,PB,Nordeste,2015,1,9.3
+UF,25,Paraíba,PB,Nordeste,2015,2,9.3
+UF,25,Paraíba,PB,Nordeste,2015,3,10.5
+UF,25,Paraíba,PB,Nordeste,2015,4,9.7
+UF,25,Paraíba,PB,Nordeste,2016,1,10.3
+UF,25,Paraíba,PB,Nordeste,2016,2,11.0
+UF,25,Paraíba,PB,Nordeste,2016,3,13.0
+UF,25,Paraíba,PB,Nordeste,2016,4,12.1
+UF,25,Paraíba,PB,Nordeste,2017,1,13.4
+UF,25,Paraíba,PB,Nordeste,2017,2,11.5
+UF,25,Paraíba,PB,Nordeste,2017,3,10.9
+UF,25,Paraíba,PB,Nordeste,2017,4,10.2
+UF,25,Paraíba,PB,Nordeste,2018,1,11.9
+UF,25,Paraíba,PB,Nordeste,2018,2,11.1
+UF,25,Paraíba,PB,Nordeste,2018,3,11.0
+UF,25,Paraíba,PB,Nordeste,2018,4,11.2
+UF,25,Paraíba,PB,Nordeste,2019,1,11.2
+UF,25,Paraíba,PB,Nordeste,2019,2,12.2
+UF,25,Paraíba,PB,Nordeste,2019,3,11.4
+UF,25,Paraíba,PB,Nordeste,2019,4,12.2
+UF,25,Paraíba,PB,Nordeste,2020,1,13.9
+UF,25,Paraíba,PB,Nordeste,2020,2,13.2
+UF,25,Paraíba,PB,Nordeste,2020,3,17.4
+UF,25,Paraíba,PB,Nordeste,2020,4,15.7
+UF,25,Paraíba,PB,Nordeste,2021,1,16.2
+UF,25,Paraíba,PB,Nordeste,2021,2,15.5
+UF,25,Paraíba,PB,Nordeste,2021,3,14.5
+UF,25,Paraíba,PB,Nordeste,2021,4,13.0
+UF,25,Paraíba,PB,Nordeste,2022,1,14.3
+UF,25,Paraíba,PB,Nordeste,2022,2,12.3
+UF,25,Paraíba,PB,Nordeste,2022,3,10.9
+UF,25,Paraíba,PB,Nordeste,2022,4,10.3
+UF,25,Paraíba,PB,Nordeste,2023,1,11.1
+UF,25,Paraíba,PB,Nordeste,2023,2,10.4
+UF,25,Paraíba,PB,Nordeste,2023,3,9.3
+UF,25,Paraíba,PB,Nordeste,2023,4,9.6
+UF,25,Paraíba,PB,Nordeste,2024,1,9.9
+UF,25,Paraíba,PB,Nordeste,2024,2,8.7
+UF,25,Paraíba,PB,Nordeste,2024,3,7.8
+UF,25,Paraíba,PB,Nordeste,2024,4,8.5
+UF,25,Paraíba,PB,Nordeste,2025,1,8.7
+UF,25,Paraíba,PB,Nordeste,2025,2,7.0
+UF,25,Paraíba,PB,Nordeste,2025,3,7.0
+UF,25,Paraíba,PB,Nordeste,2025,4,5.7
+UF,25,Paraíba,PB,Nordeste,2026,1,7.0
+UF,25,Paraíba,PB,Nordeste,2026,2,5.4
+UF,26,Pernambuco,PE,Nordeste,2012,1,9.6
+UF,26,Pernambuco,PE,Nordeste,2012,2,8.3
+UF,26,Pernambuco,PE,Nordeste,2012,3,9.4
+UF,26,Pernambuco,PE,Nordeste,2012,4,9.2
+UF,26,Pernambuco,PE,Nordeste,2013,1,10.7
+UF,26,Pernambuco,PE,Nordeste,2013,2,9.7
+UF,26,Pernambuco,PE,Nordeste,2013,3,8.5
+UF,26,Pernambuco,PE,Nordeste,2013,4,7.4
+UF,26,Pernambuco,PE,Nordeste,2014,1,8.8
+UF,26,Pernambuco,PE,Nordeste,2014,2,8.0
+UF,26,Pernambuco,PE,Nordeste,2014,3,8.5
+UF,26,Pernambuco,PE,Nordeste,2014,4,7.7
+UF,26,Pernambuco,PE,Nordeste,2015,1,8.2
+UF,26,Pernambuco,PE,Nordeste,2015,2,9.2
+UF,26,Pernambuco,PE,Nordeste,2015,3,11.3
+UF,26,Pernambuco,PE,Nordeste,2015,4,11.1
+UF,26,Pernambuco,PE,Nordeste,2016,1,13.4
+UF,26,Pernambuco,PE,Nordeste,2016,2,14.2
+UF,26,Pernambuco,PE,Nordeste,2016,3,15.5
+UF,26,Pernambuco,PE,Nordeste,2016,4,15.9
+UF,26,Pernambuco,PE,Nordeste,2017,1,17.3
+UF,26,Pernambuco,PE,Nordeste,2017,2,19.0
+UF,26,Pernambuco,PE,Nordeste,2017,3,18.1
+UF,26,Pernambuco,PE,Nordeste,2017,4,17.0
+UF,26,Pernambuco,PE,Nordeste,2018,1,17.9
+UF,26,Pernambuco,PE,Nordeste,2018,2,17.1
+UF,26,Pernambuco,PE,Nordeste,2018,3,17.0
+UF,26,Pernambuco,PE,Nordeste,2018,4,15.6
+UF,26,Pernambuco,PE,Nordeste,2019,1,16.3
+UF,26,Pernambuco,PE,Nordeste,2019,2,16.1
+UF,26,Pernambuco,PE,Nordeste,2019,3,16.0
+UF,26,Pernambuco,PE,Nordeste,2019,4,14.2
+UF,26,Pernambuco,PE,Nordeste,2020,1,14.8
+UF,26,Pernambuco,PE,Nordeste,2020,2,15.4
+UF,26,Pernambuco,PE,Nordeste,2020,3,19.3
+UF,26,Pernambuco,PE,Nordeste,2020,4,19.4
+UF,26,Pernambuco,PE,Nordeste,2021,1,21.4
+UF,26,Pernambuco,PE,Nordeste,2021,2,21.8
+UF,26,Pernambuco,PE,Nordeste,2021,3,19.3
+UF,26,Pernambuco,PE,Nordeste,2021,4,17.2
+UF,26,Pernambuco,PE,Nordeste,2022,1,17.1
+UF,26,Pernambuco,PE,Nordeste,2022,2,13.6
+UF,26,Pernambuco,PE,Nordeste,2022,3,14.0
+UF,26,Pernambuco,PE,Nordeste,2022,4,12.3
+UF,26,Pernambuco,PE,Nordeste,2023,1,14.1
+UF,26,Pernambuco,PE,Nordeste,2023,2,14.2
+UF,26,Pernambuco,PE,Nordeste,2023,3,13.3
+UF,26,Pernambuco,PE,Nordeste,2023,4,12.0
+UF,26,Pernambuco,PE,Nordeste,2024,1,12.4
+UF,26,Pernambuco,PE,Nordeste,2024,2,11.6
+UF,26,Pernambuco,PE,Nordeste,2024,3,10.6
+UF,26,Pernambuco,PE,Nordeste,2024,4,10.3
+UF,26,Pernambuco,PE,Nordeste,2025,1,11.6
+UF,26,Pernambuco,PE,Nordeste,2025,2,10.4
+UF,26,Pernambuco,PE,Nordeste,2025,3,10.0
+UF,26,Pernambuco,PE,Nordeste,2025,4,8.8
+UF,26,Pernambuco,PE,Nordeste,2026,1,9.2
+UF,26,Pernambuco,PE,Nordeste,2026,2,8.3
+UF,27,Alagoas,AL,Nordeste,2012,1,11.3
+UF,27,Alagoas,AL,Nordeste,2012,2,11.7
+UF,27,Alagoas,AL,Nordeste,2012,3,11.6
+UF,27,Alagoas,AL,Nordeste,2012,4,11.1
+UF,27,Alagoas,AL,Nordeste,2013,1,12.2
+UF,27,Alagoas,AL,Nordeste,2013,2,10.8
+UF,27,Alagoas,AL,Nordeste,2013,3,10.6
+UF,27,Alagoas,AL,Nordeste,2013,4,9.5
+UF,27,Alagoas,AL,Nordeste,2014,1,9.9
+UF,27,Alagoas,AL,Nordeste,2014,2,9.9
+UF,27,Alagoas,AL,Nordeste,2014,3,9.9
+UF,27,Alagoas,AL,Nordeste,2014,4,9.5
+UF,27,Alagoas,AL,Nordeste,2015,1,11.2
+UF,27,Alagoas,AL,Nordeste,2015,2,11.9
+UF,27,Alagoas,AL,Nordeste,2015,3,10.9
+UF,27,Alagoas,AL,Nordeste,2015,4,11.4
+UF,27,Alagoas,AL,Nordeste,2016,1,12.9
+UF,27,Alagoas,AL,Nordeste,2016,2,14.1
+UF,27,Alagoas,AL,Nordeste,2016,3,14.9
+UF,27,Alagoas,AL,Nordeste,2016,4,15.0
+UF,27,Alagoas,AL,Nordeste,2017,1,17.7
+UF,27,Alagoas,AL,Nordeste,2017,2,18.0
+UF,27,Alagoas,AL,Nordeste,2017,3,16.1
+UF,27,Alagoas,AL,Nordeste,2017,4,15.8
+UF,27,Alagoas,AL,Nordeste,2018,1,17.9
+UF,27,Alagoas,AL,Nordeste,2018,2,17.7
+UF,27,Alagoas,AL,Nordeste,2018,3,17.4
+UF,27,Alagoas,AL,Nordeste,2018,4,16.1
+UF,27,Alagoas,AL,Nordeste,2019,1,16.2
+UF,27,Alagoas,AL,Nordeste,2019,2,14.9
+UF,27,Alagoas,AL,Nordeste,2019,3,15.6
+UF,27,Alagoas,AL,Nordeste,2019,4,13.7
+UF,27,Alagoas,AL,Nordeste,2020,1,16.8
+UF,27,Alagoas,AL,Nordeste,2020,2,18.2
+UF,27,Alagoas,AL,Nordeste,2020,3,20.5
+UF,27,Alagoas,AL,Nordeste,2020,4,20.7
+UF,27,Alagoas,AL,Nordeste,2021,1,20.3
+UF,27,Alagoas,AL,Nordeste,2021,2,19.2
+UF,27,Alagoas,AL,Nordeste,2021,3,17.2
+UF,27,Alagoas,AL,Nordeste,2021,4,14.6
+UF,27,Alagoas,AL,Nordeste,2022,1,14.2
+UF,27,Alagoas,AL,Nordeste,2022,2,11.2
+UF,27,Alagoas,AL,Nordeste,2022,3,10.2
+UF,27,Alagoas,AL,Nordeste,2022,4,9.4
+UF,27,Alagoas,AL,Nordeste,2023,1,10.6
+UF,27,Alagoas,AL,Nordeste,2023,2,9.7
+UF,27,Alagoas,AL,Nordeste,2023,3,9.0
+UF,27,Alagoas,AL,Nordeste,2023,4,8.9
+UF,27,Alagoas,AL,Nordeste,2024,1,9.9
+UF,27,Alagoas,AL,Nordeste,2024,2,8.2
+UF,27,Alagoas,AL,Nordeste,2024,3,7.8
+UF,27,Alagoas,AL,Nordeste,2024,4,8.1
+UF,27,Alagoas,AL,Nordeste,2025,1,9.0
+UF,27,Alagoas,AL,Nordeste,2025,2,7.5
+UF,27,Alagoas,AL,Nordeste,2025,3,7.7
+UF,27,Alagoas,AL,Nordeste,2025,4,8.0
+UF,27,Alagoas,AL,Nordeste,2026,1,9.2
+UF,27,Alagoas,AL,Nordeste,2026,2,7.9
+UF,28,Sergipe,SE,Nordeste,2012,1,10.5
+UF,28,Sergipe,SE,Nordeste,2012,2,10.9
+UF,28,Sergipe,SE,Nordeste,2012,3,10.6
+UF,28,Sergipe,SE,Nordeste,2012,4,9.7
+UF,28,Sergipe,SE,Nordeste,2013,1,11.6
+UF,28,Sergipe,SE,Nordeste,2013,2,11.4
+UF,28,Sergipe,SE,Nordeste,2013,3,10.1
+UF,28,Sergipe,SE,Nordeste,2013,4,8.8
+UF,28,Sergipe,SE,Nordeste,2014,1,9.6
+UF,28,Sergipe,SE,Nordeste,2014,2,9.8
+UF,28,Sergipe,SE,Nordeste,2014,3,9.1
+UF,28,Sergipe,SE,Nordeste,2014,4,9.1
+UF,28,Sergipe,SE,Nordeste,2015,1,8.8
+UF,28,Sergipe,SE,Nordeste,2015,2,9.2
+UF,28,Sergipe,SE,Nordeste,2015,3,8.8
+UF,28,Sergipe,SE,Nordeste,2015,4,10.1
+UF,28,Sergipe,SE,Nordeste,2016,1,11.6
+UF,28,Sergipe,SE,Nordeste,2016,2,12.9
+UF,28,Sergipe,SE,Nordeste,2016,3,14.5
+UF,28,Sergipe,SE,Nordeste,2016,4,15.2
+UF,28,Sergipe,SE,Nordeste,2017,1,16.3
+UF,28,Sergipe,SE,Nordeste,2017,2,14.3
+UF,28,Sergipe,SE,Nordeste,2017,3,13.9
+UF,28,Sergipe,SE,Nordeste,2017,4,13.7
+UF,28,Sergipe,SE,Nordeste,2018,1,17.3
+UF,28,Sergipe,SE,Nordeste,2018,2,17.1
+UF,28,Sergipe,SE,Nordeste,2018,3,17.7
+UF,28,Sergipe,SE,Nordeste,2018,4,15.2
+UF,28,Sergipe,SE,Nordeste,2019,1,15.6
+UF,28,Sergipe,SE,Nordeste,2019,2,15.5
+UF,28,Sergipe,SE,Nordeste,2019,3,14.8
+UF,28,Sergipe,SE,Nordeste,2019,4,15.1
+UF,28,Sergipe,SE,Nordeste,2020,1,15.9
+UF,28,Sergipe,SE,Nordeste,2020,2,20.4
+UF,28,Sergipe,SE,Nordeste,2020,3,20.8
+UF,28,Sergipe,SE,Nordeste,2020,4,18.3
+UF,28,Sergipe,SE,Nordeste,2021,1,20.7
+UF,28,Sergipe,SE,Nordeste,2021,2,19.5
+UF,28,Sergipe,SE,Nordeste,2021,3,17.2
+UF,28,Sergipe,SE,Nordeste,2021,4,14.7
+UF,28,Sergipe,SE,Nordeste,2022,1,15.1
+UF,28,Sergipe,SE,Nordeste,2022,2,12.9
+UF,28,Sergipe,SE,Nordeste,2022,3,12.2
+UF,28,Sergipe,SE,Nordeste,2022,4,12.0
+UF,28,Sergipe,SE,Nordeste,2023,1,12.0
+UF,28,Sergipe,SE,Nordeste,2023,2,10.3
+UF,28,Sergipe,SE,Nordeste,2023,3,9.9
+UF,28,Sergipe,SE,Nordeste,2023,4,11.3
+UF,28,Sergipe,SE,Nordeste,2024,1,10.0
+UF,28,Sergipe,SE,Nordeste,2024,2,9.2
+UF,28,Sergipe,SE,Nordeste,2024,3,8.4
+UF,28,Sergipe,SE,Nordeste,2024,4,8.4
+UF,28,Sergipe,SE,Nordeste,2025,1,9.3
+UF,28,Sergipe,SE,Nordeste,2025,2,8.1
+UF,28,Sergipe,SE,Nordeste,2025,3,7.7
+UF,28,Sergipe,SE,Nordeste,2025,4,7.5
+UF,28,Sergipe,SE,Nordeste,2026,1,8.6
+UF,28,Sergipe,SE,Nordeste,2026,2,7.9
+UF,29,Bahia,BA,Nordeste,2012,1,11.6
+UF,29,Bahia,BA,Nordeste,2012,2,11.4
+UF,29,Bahia,BA,Nordeste,2012,3,10.8
+UF,29,Bahia,BA,Nordeste,2012,4,10.8
+UF,29,Bahia,BA,Nordeste,2013,1,13.4
+UF,29,Bahia,BA,Nordeste,2013,2,11.9
+UF,29,Bahia,BA,Nordeste,2013,3,10.7
+UF,29,Bahia,BA,Nordeste,2013,4,9.1
+UF,29,Bahia,BA,Nordeste,2014,1,11.6
+UF,29,Bahia,BA,Nordeste,2014,2,10.1
+UF,29,Bahia,BA,Nordeste,2014,3,9.8
+UF,29,Bahia,BA,Nordeste,2014,4,9.8
+UF,29,Bahia,BA,Nordeste,2015,1,11.4
+UF,29,Bahia,BA,Nordeste,2015,2,12.8
+UF,29,Bahia,BA,Nordeste,2015,3,12.9
+UF,29,Bahia,BA,Nordeste,2015,4,12.4
+UF,29,Bahia,BA,Nordeste,2016,1,15.7
+UF,29,Bahia,BA,Nordeste,2016,2,15.6
+UF,29,Bahia,BA,Nordeste,2016,3,16.0
+UF,29,Bahia,BA,Nordeste,2016,4,16.7
+UF,29,Bahia,BA,Nordeste,2017,1,18.7
+UF,29,Bahia,BA,Nordeste,2017,2,17.6
+UF,29,Bahia,BA,Nordeste,2017,3,16.8
+UF,29,Bahia,BA,Nordeste,2017,4,15.1
+UF,29,Bahia,BA,Nordeste,2018,1,18.1
+UF,29,Bahia,BA,Nordeste,2018,2,16.7
+UF,29,Bahia,BA,Nordeste,2018,3,16.4
+UF,29,Bahia,BA,Nordeste,2018,4,17.7
+UF,29,Bahia,BA,Nordeste,2019,1,18.5
+UF,29,Bahia,BA,Nordeste,2019,2,17.5
+UF,29,Bahia,BA,Nordeste,2019,3,17.0
+UF,29,Bahia,BA,Nordeste,2019,4,16.6
+UF,29,Bahia,BA,Nordeste,2020,1,18.9
+UF,29,Bahia,BA,Nordeste,2020,2,20.4
+UF,29,Bahia,BA,Nordeste,2020,3,21.0
+UF,29,Bahia,BA,Nordeste,2020,4,20.6
+UF,29,Bahia,BA,Nordeste,2021,1,21.7
+UF,29,Bahia,BA,Nordeste,2021,2,20.2
+UF,29,Bahia,BA,Nordeste,2021,3,18.8
+UF,29,Bahia,BA,Nordeste,2021,4,17.3
+UF,29,Bahia,BA,Nordeste,2022,1,17.5
+UF,29,Bahia,BA,Nordeste,2022,2,15.4
+UF,29,Bahia,BA,Nordeste,2022,3,15.0
+UF,29,Bahia,BA,Nordeste,2022,4,13.5
+UF,29,Bahia,BA,Nordeste,2023,1,14.4
+UF,29,Bahia,BA,Nordeste,2023,2,13.3
+UF,29,Bahia,BA,Nordeste,2023,3,13.3
+UF,29,Bahia,BA,Nordeste,2023,4,12.7
+UF,29,Bahia,BA,Nordeste,2024,1,14.0
+UF,29,Bahia,BA,Nordeste,2024,2,11.0
+UF,29,Bahia,BA,Nordeste,2024,3,9.7
+UF,29,Bahia,BA,Nordeste,2024,4,10.0
+UF,29,Bahia,BA,Nordeste,2025,1,11.1
+UF,29,Bahia,BA,Nordeste,2025,2,9.1
+UF,29,Bahia,BA,Nordeste,2025,3,8.5
+UF,29,Bahia,BA,Nordeste,2025,4,8.0
+UF,29,Bahia,BA,Nordeste,2026,1,9.2
+UF,29,Bahia,BA,Nordeste,2026,2,9.1
+UF,31,Minas Gerais,MG,Sudeste,2012,1,7.9
+UF,31,Minas Gerais,MG,Sudeste,2012,2,7.2
+UF,31,Minas Gerais,MG,Sudeste,2012,3,6.4
+UF,31,Minas Gerais,MG,Sudeste,2012,4,6.3
+UF,31,Minas Gerais,MG,Sudeste,2013,1,7.5
+UF,31,Minas Gerais,MG,Sudeste,2013,2,7.0
+UF,31,Minas Gerais,MG,Sudeste,2013,3,6.3
+UF,31,Minas Gerais,MG,Sudeste,2013,4,5.8
+UF,31,Minas Gerais,MG,Sudeste,2014,1,7.1
+UF,31,Minas Gerais,MG,Sudeste,2014,2,6.9
+UF,31,Minas Gerais,MG,Sudeste,2014,3,6.9
+UF,31,Minas Gerais,MG,Sudeste,2014,4,6.3
+UF,31,Minas Gerais,MG,Sudeste,2015,1,8.3
+UF,31,Minas Gerais,MG,Sudeste,2015,2,8.0
+UF,31,Minas Gerais,MG,Sudeste,2015,3,8.8
+UF,31,Minas Gerais,MG,Sudeste,2015,4,9.4
+UF,31,Minas Gerais,MG,Sudeste,2016,1,11.3
+UF,31,Minas Gerais,MG,Sudeste,2016,2,11.0
+UF,31,Minas Gerais,MG,Sudeste,2016,3,11.3
+UF,31,Minas Gerais,MG,Sudeste,2016,4,11.2
+UF,31,Minas Gerais,MG,Sudeste,2017,1,13.8
+UF,31,Minas Gerais,MG,Sudeste,2017,2,12.2
+UF,31,Minas Gerais,MG,Sudeste,2017,3,12.3
+UF,31,Minas Gerais,MG,Sudeste,2017,4,10.7
+UF,31,Minas Gerais,MG,Sudeste,2018,1,12.7
+UF,31,Minas Gerais,MG,Sudeste,2018,2,10.9
+UF,31,Minas Gerais,MG,Sudeste,2018,3,9.8
+UF,31,Minas Gerais,MG,Sudeste,2018,4,9.7
+UF,31,Minas Gerais,MG,Sudeste,2019,1,11.3
+UF,31,Minas Gerais,MG,Sudeste,2019,2,9.6
+UF,31,Minas Gerais,MG,Sudeste,2019,3,10.0
+UF,31,Minas Gerais,MG,Sudeste,2019,4,9.6
+UF,31,Minas Gerais,MG,Sudeste,2020,1,11.7
+UF,31,Minas Gerais,MG,Sudeste,2020,2,13.2
+UF,31,Minas Gerais,MG,Sudeste,2020,3,13.6
+UF,31,Minas Gerais,MG,Sudeste,2020,4,12.5
+UF,31,Minas Gerais,MG,Sudeste,2021,1,14.0
+UF,31,Minas Gerais,MG,Sudeste,2021,2,12.7
+UF,31,Minas Gerais,MG,Sudeste,2021,3,10.7
+UF,31,Minas Gerais,MG,Sudeste,2021,4,9.5
+UF,31,Minas Gerais,MG,Sudeste,2022,1,9.3
+UF,31,Minas Gerais,MG,Sudeste,2022,2,7.3
+UF,31,Minas Gerais,MG,Sudeste,2022,3,6.3
+UF,31,Minas Gerais,MG,Sudeste,2022,4,5.8
+UF,31,Minas Gerais,MG,Sudeste,2023,1,6.8
+UF,31,Minas Gerais,MG,Sudeste,2023,2,5.8
+UF,31,Minas Gerais,MG,Sudeste,2023,3,6.0
+UF,31,Minas Gerais,MG,Sudeste,2023,4,5.7
+UF,31,Minas Gerais,MG,Sudeste,2024,1,6.3
+UF,31,Minas Gerais,MG,Sudeste,2024,2,5.3
+UF,31,Minas Gerais,MG,Sudeste,2024,3,5.0
+UF,31,Minas Gerais,MG,Sudeste,2024,4,4.3
+UF,31,Minas Gerais,MG,Sudeste,2025,1,5.7
+UF,31,Minas Gerais,MG,Sudeste,2025,2,4.0
+UF,31,Minas Gerais,MG,Sudeste,2025,3,4.1
+UF,31,Minas Gerais,MG,Sudeste,2025,4,3.8
+UF,31,Minas Gerais,MG,Sudeste,2026,1,5.0
+UF,31,Minas Gerais,MG,Sudeste,2026,2,3.8
+UF,32,Espírito Santo,ES,Sudeste,2012,1,7.6
+UF,32,Espírito Santo,ES,Sudeste,2012,2,7.2
+UF,32,Espírito Santo,ES,Sudeste,2012,3,6.9
+UF,32,Espírito Santo,ES,Sudeste,2012,4,6.7
+UF,32,Espírito Santo,ES,Sudeste,2013,1,7.8
+UF,32,Espírito Santo,ES,Sudeste,2013,2,7.7
+UF,32,Espírito Santo,ES,Sudeste,2013,3,7.2
+UF,32,Espírito Santo,ES,Sudeste,2013,4,5.9
+UF,32,Espírito Santo,ES,Sudeste,2014,1,6.4
+UF,32,Espírito Santo,ES,Sudeste,2014,2,6.6
+UF,32,Espírito Santo,ES,Sudeste,2014,3,5.9
+UF,32,Espírito Santo,ES,Sudeste,2014,4,6.2
+UF,32,Espírito Santo,ES,Sudeste,2015,1,7.1
+UF,32,Espírito Santo,ES,Sudeste,2015,2,6.8
+UF,32,Espírito Santo,ES,Sudeste,2015,3,8.3
+UF,32,Espírito Santo,ES,Sudeste,2015,4,9.2
+UF,32,Espírito Santo,ES,Sudeste,2016,1,11.2
+UF,32,Espírito Santo,ES,Sudeste,2016,2,11.6
+UF,32,Espírito Santo,ES,Sudeste,2016,3,12.9
+UF,32,Espírito Santo,ES,Sudeste,2016,4,13.8
+UF,32,Espírito Santo,ES,Sudeste,2017,1,14.7
+UF,32,Espírito Santo,ES,Sudeste,2017,2,13.5
+UF,32,Espírito Santo,ES,Sudeste,2017,3,13.2
+UF,32,Espírito Santo,ES,Sudeste,2017,4,11.8
+UF,32,Espírito Santo,ES,Sudeste,2018,1,12.7
+UF,32,Espírito Santo,ES,Sudeste,2018,2,12.2
+UF,32,Espírito Santo,ES,Sudeste,2018,3,11.4
+UF,32,Espírito Santo,ES,Sudeste,2018,4,10.4
+UF,32,Espírito Santo,ES,Sudeste,2019,1,12.4
+UF,32,Espírito Santo,ES,Sudeste,2019,2,11.0
+UF,32,Espírito Santo,ES,Sudeste,2019,3,10.8
+UF,32,Espírito Santo,ES,Sudeste,2019,4,10.5
+UF,32,Espírito Santo,ES,Sudeste,2020,1,11.3
+UF,32,Espírito Santo,ES,Sudeste,2020,2,12.6
+UF,32,Espírito Santo,ES,Sudeste,2020,3,14.2
+UF,32,Espírito Santo,ES,Sudeste,2020,4,13.5
+UF,32,Espírito Santo,ES,Sudeste,2021,1,13.2
+UF,32,Espírito Santo,ES,Sudeste,2021,2,11.6
+UF,32,Espírito Santo,ES,Sudeste,2021,3,10.0
+UF,32,Espírito Santo,ES,Sudeste,2021,4,9.9
+UF,32,Espírito Santo,ES,Sudeste,2022,1,9.3
+UF,32,Espírito Santo,ES,Sudeste,2022,2,8.0
+UF,32,Espírito Santo,ES,Sudeste,2022,3,7.3
+UF,32,Espírito Santo,ES,Sudeste,2022,4,7.3
+UF,32,Espírito Santo,ES,Sudeste,2023,1,7.0
+UF,32,Espírito Santo,ES,Sudeste,2023,2,6.4
+UF,32,Espírito Santo,ES,Sudeste,2023,3,5.6
+UF,32,Espírito Santo,ES,Sudeste,2023,4,5.3
+UF,32,Espírito Santo,ES,Sudeste,2024,1,5.9
+UF,32,Espírito Santo,ES,Sudeste,2024,2,4.5
+UF,32,Espírito Santo,ES,Sudeste,2024,3,4.1
+UF,32,Espírito Santo,ES,Sudeste,2024,4,4.0
+UF,32,Espírito Santo,ES,Sudeste,2025,1,4.0
+UF,32,Espírito Santo,ES,Sudeste,2025,2,3.1
+UF,32,Espírito Santo,ES,Sudeste,2025,3,2.6
+UF,32,Espírito Santo,ES,Sudeste,2025,4,2.4
+UF,32,Espírito Santo,ES,Sudeste,2026,1,3.2
+UF,32,Espírito Santo,ES,Sudeste,2026,2,2.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2012,1,8.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2012,2,7.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2012,3,7.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2012,4,6.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2013,1,7.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2013,2,7.0
+UF,33,Rio de Janeiro,RJ,Sudeste,2013,3,6.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2013,4,6.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2014,1,6.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2014,2,6.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2014,3,6.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2014,4,5.8
+UF,33,Rio de Janeiro,RJ,Sudeste,2015,1,6.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2015,2,7.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2015,3,8.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2015,4,8.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2016,1,10.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2016,2,11.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2016,3,12.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2016,4,13.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2017,1,14.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2017,2,15.8
+UF,33,Rio de Janeiro,RJ,Sudeste,2017,3,14.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2017,4,15.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2018,1,15.1
+UF,33,Rio de Janeiro,RJ,Sudeste,2018,2,15.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2018,3,14.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2018,4,14.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2019,1,15.4
+UF,33,Rio de Janeiro,RJ,Sudeste,2019,2,15.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2019,3,14.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2019,4,13.8
+UF,33,Rio de Janeiro,RJ,Sudeste,2020,1,14.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2020,2,16.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2020,3,19.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2020,4,19.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2021,1,19.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2021,2,17.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2021,3,15.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2021,4,14.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2022,1,14.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2022,2,12.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2022,3,12.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2022,4,11.4
+UF,33,Rio de Janeiro,RJ,Sudeste,2023,1,11.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2023,2,11.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2023,3,10.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2023,4,10.1
+UF,33,Rio de Janeiro,RJ,Sudeste,2024,1,10.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2024,2,9.7
+UF,33,Rio de Janeiro,RJ,Sudeste,2024,3,8.6
+UF,33,Rio de Janeiro,RJ,Sudeste,2024,4,8.2
+UF,33,Rio de Janeiro,RJ,Sudeste,2025,1,9.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2025,2,8.1
+UF,33,Rio de Janeiro,RJ,Sudeste,2025,3,7.5
+UF,33,Rio de Janeiro,RJ,Sudeste,2025,4,6.9
+UF,33,Rio de Janeiro,RJ,Sudeste,2026,1,7.3
+UF,33,Rio de Janeiro,RJ,Sudeste,2026,2,7.1
+UF,35,São Paulo,SP,Sudeste,2012,1,7.8
+UF,35,São Paulo,SP,Sudeste,2012,2,7.5
+UF,35,São Paulo,SP,Sudeste,2012,3,7.0
+UF,35,São Paulo,SP,Sudeste,2012,4,6.8
+UF,35,São Paulo,SP,Sudeste,2013,1,7.8
+UF,35,São Paulo,SP,Sudeste,2013,2,7.5
+UF,35,São Paulo,SP,Sudeste,2013,3,7.4
+UF,35,São Paulo,SP,Sudeste,2013,4,6.6
+UF,35,São Paulo,SP,Sudeste,2014,1,7.3
+UF,35,São Paulo,SP,Sudeste,2014,2,7.1
+UF,35,São Paulo,SP,Sudeste,2014,3,7.3
+UF,35,São Paulo,SP,Sudeste,2014,4,7.2
+UF,35,São Paulo,SP,Sudeste,2015,1,8.6
+UF,35,São Paulo,SP,Sudeste,2015,2,9.2
+UF,35,São Paulo,SP,Sudeste,2015,3,9.8
+UF,35,São Paulo,SP,Sudeste,2015,4,10.2
+UF,35,São Paulo,SP,Sudeste,2016,1,12.2
+UF,35,São Paulo,SP,Sudeste,2016,2,12.3
+UF,35,São Paulo,SP,Sudeste,2016,3,12.9
+UF,35,São Paulo,SP,Sudeste,2016,4,12.5
+UF,35,São Paulo,SP,Sudeste,2017,1,14.4
+UF,35,São Paulo,SP,Sudeste,2017,2,13.6
+UF,35,São Paulo,SP,Sudeste,2017,3,13.3
+UF,35,São Paulo,SP,Sudeste,2017,4,12.8
+UF,35,São Paulo,SP,Sudeste,2018,1,14.1
+UF,35,São Paulo,SP,Sudeste,2018,2,13.8
+UF,35,São Paulo,SP,Sudeste,2018,3,13.3
+UF,35,São Paulo,SP,Sudeste,2018,4,12.6
+UF,35,São Paulo,SP,Sudeste,2019,1,13.6
+UF,35,São Paulo,SP,Sudeste,2019,2,12.9
+UF,35,São Paulo,SP,Sudeste,2019,3,12.2
+UF,35,São Paulo,SP,Sudeste,2019,4,11.6
+UF,35,São Paulo,SP,Sudeste,2020,1,12.3
+UF,35,São Paulo,SP,Sudeste,2020,2,13.9
+UF,35,São Paulo,SP,Sudeste,2020,3,15.4
+UF,35,São Paulo,SP,Sudeste,2020,4,14.8
+UF,35,São Paulo,SP,Sudeste,2021,1,14.7
+UF,35,São Paulo,SP,Sudeste,2021,2,14.6
+UF,35,São Paulo,SP,Sudeste,2021,3,13.4
+UF,35,São Paulo,SP,Sudeste,2021,4,11.2
+UF,35,São Paulo,SP,Sudeste,2022,1,10.8
+UF,35,São Paulo,SP,Sudeste,2022,2,9.2
+UF,35,São Paulo,SP,Sudeste,2022,3,8.7
+UF,35,São Paulo,SP,Sudeste,2022,4,7.7
+UF,35,São Paulo,SP,Sudeste,2023,1,8.5
+UF,35,São Paulo,SP,Sudeste,2023,2,7.8
+UF,35,São Paulo,SP,Sudeste,2023,3,7.2
+UF,35,São Paulo,SP,Sudeste,2023,4,6.9
+UF,35,São Paulo,SP,Sudeste,2024,1,7.4
+UF,35,São Paulo,SP,Sudeste,2024,2,6.4
+UF,35,São Paulo,SP,Sudeste,2024,3,6.1
+UF,35,São Paulo,SP,Sudeste,2024,4,5.9
+UF,35,São Paulo,SP,Sudeste,2025,1,6.3
+UF,35,São Paulo,SP,Sudeste,2025,2,5.1
+UF,35,São Paulo,SP,Sudeste,2025,3,5.2
+UF,35,São Paulo,SP,Sudeste,2025,4,4.7
+UF,35,São Paulo,SP,Sudeste,2026,1,6.0
+UF,35,São Paulo,SP,Sudeste,2026,2,5.4
+UF,41,Paraná,PR,Sul,2012,1,5.6
+UF,41,Paraná,PR,Sul,2012,2,5.3
+UF,41,Paraná,PR,Sul,2012,3,4.7
+UF,41,Paraná,PR,Sul,2012,4,4.5
+UF,41,Paraná,PR,Sul,2013,1,4.9
+UF,41,Paraná,PR,Sul,2013,2,4.6
+UF,41,Paraná,PR,Sul,2013,3,4.2
+UF,41,Paraná,PR,Sul,2013,4,3.8
+UF,41,Paraná,PR,Sul,2014,1,4.2
+UF,41,Paraná,PR,Sul,2014,2,4.2
+UF,41,Paraná,PR,Sul,2014,3,4.2
+UF,41,Paraná,PR,Sul,2014,4,3.7
+UF,41,Paraná,PR,Sul,2015,1,5.4
+UF,41,Paraná,PR,Sul,2015,2,6.2
+UF,41,Paraná,PR,Sul,2015,3,6.2
+UF,41,Paraná,PR,Sul,2015,4,5.9
+UF,41,Paraná,PR,Sul,2016,1,8.1
+UF,41,Paraná,PR,Sul,2016,2,8.2
+UF,41,Paraná,PR,Sul,2016,3,8.6
+UF,41,Paraná,PR,Sul,2016,4,8.2
+UF,41,Paraná,PR,Sul,2017,1,10.4
+UF,41,Paraná,PR,Sul,2017,2,8.9
+UF,41,Paraná,PR,Sul,2017,3,8.5
+UF,41,Paraná,PR,Sul,2017,4,8.3
+UF,41,Paraná,PR,Sul,2018,1,9.7
+UF,41,Paraná,PR,Sul,2018,2,9.1
+UF,41,Paraná,PR,Sul,2018,3,8.7
+UF,41,Paraná,PR,Sul,2018,4,7.9
+UF,41,Paraná,PR,Sul,2019,1,9.0
+UF,41,Paraná,PR,Sul,2019,2,9.1
+UF,41,Paraná,PR,Sul,2019,3,9.1
+UF,41,Paraná,PR,Sul,2019,4,7.4
+UF,41,Paraná,PR,Sul,2020,1,8.0
+UF,41,Paraná,PR,Sul,2020,2,9.6
+UF,41,Paraná,PR,Sul,2020,3,10.5
+UF,41,Paraná,PR,Sul,2020,4,10.1
+UF,41,Paraná,PR,Sul,2021,1,9.4
+UF,41,Paraná,PR,Sul,2021,2,9.1
+UF,41,Paraná,PR,Sul,2021,3,8.0
+UF,41,Paraná,PR,Sul,2021,4,7.0
+UF,41,Paraná,PR,Sul,2022,1,6.8
+UF,41,Paraná,PR,Sul,2022,2,6.1
+UF,41,Paraná,PR,Sul,2022,3,5.3
+UF,41,Paraná,PR,Sul,2022,4,5.2
+UF,41,Paraná,PR,Sul,2023,1,5.4
+UF,41,Paraná,PR,Sul,2023,2,4.9
+UF,41,Paraná,PR,Sul,2023,3,4.6
+UF,41,Paraná,PR,Sul,2023,4,4.7
+UF,41,Paraná,PR,Sul,2024,1,4.8
+UF,41,Paraná,PR,Sul,2024,2,4.4
+UF,41,Paraná,PR,Sul,2024,3,4.0
+UF,41,Paraná,PR,Sul,2024,4,3.2
+UF,41,Paraná,PR,Sul,2025,1,4.0
+UF,41,Paraná,PR,Sul,2025,2,3.8
+UF,41,Paraná,PR,Sul,2025,3,3.5
+UF,41,Paraná,PR,Sul,2025,4,3.2
+UF,41,Paraná,PR,Sul,2026,1,3.5
+UF,41,Paraná,PR,Sul,2026,2,3.1
+UF,42,Santa Catarina,SC,Sul,2012,1,4.1
+UF,42,Santa Catarina,SC,Sul,2012,2,3.8
+UF,42,Santa Catarina,SC,Sul,2012,3,3.2
+UF,42,Santa Catarina,SC,Sul,2012,4,2.7
+UF,42,Santa Catarina,SC,Sul,2013,1,3.7
+UF,42,Santa Catarina,SC,Sul,2013,2,3.5
+UF,42,Santa Catarina,SC,Sul,2013,3,2.8
+UF,42,Santa Catarina,SC,Sul,2013,4,2.6
+UF,42,Santa Catarina,SC,Sul,2014,1,3.1
+UF,42,Santa Catarina,SC,Sul,2014,2,2.8
+UF,42,Santa Catarina,SC,Sul,2014,3,3.0
+UF,42,Santa Catarina,SC,Sul,2014,4,2.7
+UF,42,Santa Catarina,SC,Sul,2015,1,3.9
+UF,42,Santa Catarina,SC,Sul,2015,2,4.0
+UF,42,Santa Catarina,SC,Sul,2015,3,4.4
+UF,42,Santa Catarina,SC,Sul,2015,4,4.3
+UF,42,Santa Catarina,SC,Sul,2016,1,6.1
+UF,42,Santa Catarina,SC,Sul,2016,2,6.8
+UF,42,Santa Catarina,SC,Sul,2016,3,6.4
+UF,42,Santa Catarina,SC,Sul,2016,4,6.2
+UF,42,Santa Catarina,SC,Sul,2017,1,7.9
+UF,42,Santa Catarina,SC,Sul,2017,2,7.5
+UF,42,Santa Catarina,SC,Sul,2017,3,6.8
+UF,42,Santa Catarina,SC,Sul,2017,4,6.4
+UF,42,Santa Catarina,SC,Sul,2018,1,6.6
+UF,42,Santa Catarina,SC,Sul,2018,2,6.6
+UF,42,Santa Catarina,SC,Sul,2018,3,6.2
+UF,42,Santa Catarina,SC,Sul,2018,4,6.4
+UF,42,Santa Catarina,SC,Sul,2019,1,7.3
+UF,42,Santa Catarina,SC,Sul,2019,2,6.1
+UF,42,Santa Catarina,SC,Sul,2019,3,5.8
+UF,42,Santa Catarina,SC,Sul,2019,4,5.5
+UF,42,Santa Catarina,SC,Sul,2020,1,5.8
+UF,42,Santa Catarina,SC,Sul,2020,2,7.2
+UF,42,Santa Catarina,SC,Sul,2020,3,6.7
+UF,42,Santa Catarina,SC,Sul,2020,4,5.4
+UF,42,Santa Catarina,SC,Sul,2021,1,6.4
+UF,42,Santa Catarina,SC,Sul,2021,2,5.9
+UF,42,Santa Catarina,SC,Sul,2021,3,5.3
+UF,42,Santa Catarina,SC,Sul,2021,4,4.4
+UF,42,Santa Catarina,SC,Sul,2022,1,4.6
+UF,42,Santa Catarina,SC,Sul,2022,2,4.0
+UF,42,Santa Catarina,SC,Sul,2022,3,3.8
+UF,42,Santa Catarina,SC,Sul,2022,4,3.3
+UF,42,Santa Catarina,SC,Sul,2023,1,3.9
+UF,42,Santa Catarina,SC,Sul,2023,2,3.5
+UF,42,Santa Catarina,SC,Sul,2023,3,3.6
+UF,42,Santa Catarina,SC,Sul,2023,4,3.2
+UF,42,Santa Catarina,SC,Sul,2024,1,3.9
+UF,42,Santa Catarina,SC,Sul,2024,2,3.2
+UF,42,Santa Catarina,SC,Sul,2024,3,2.8
+UF,42,Santa Catarina,SC,Sul,2024,4,2.7
+UF,42,Santa Catarina,SC,Sul,2025,1,3.0
+UF,42,Santa Catarina,SC,Sul,2025,2,2.2
+UF,42,Santa Catarina,SC,Sul,2025,3,2.3
+UF,42,Santa Catarina,SC,Sul,2025,4,2.2
+UF,42,Santa Catarina,SC,Sul,2026,1,2.7
+UF,42,Santa Catarina,SC,Sul,2026,2,2.1
+UF,43,Rio Grande do Sul,RS,Sul,2012,1,5.3
+UF,43,Rio Grande do Sul,RS,Sul,2012,2,5.1
+UF,43,Rio Grande do Sul,RS,Sul,2012,3,4.7
+UF,43,Rio Grande do Sul,RS,Sul,2012,4,4.4
+UF,43,Rio Grande do Sul,RS,Sul,2013,1,5.4
+UF,43,Rio Grande do Sul,RS,Sul,2013,2,4.6
+UF,43,Rio Grande do Sul,RS,Sul,2013,3,4.9
+UF,43,Rio Grande do Sul,RS,Sul,2013,4,4.7
+UF,43,Rio Grande do Sul,RS,Sul,2014,1,5.4
+UF,43,Rio Grande do Sul,RS,Sul,2014,2,5.0
+UF,43,Rio Grande do Sul,RS,Sul,2014,3,5.3
+UF,43,Rio Grande do Sul,RS,Sul,2014,4,4.6
+UF,43,Rio Grande do Sul,RS,Sul,2015,1,5.8
+UF,43,Rio Grande do Sul,RS,Sul,2015,2,6.0
+UF,43,Rio Grande do Sul,RS,Sul,2015,3,7.0
+UF,43,Rio Grande do Sul,RS,Sul,2015,4,6.7
+UF,43,Rio Grande do Sul,RS,Sul,2016,1,7.6
+UF,43,Rio Grande do Sul,RS,Sul,2016,2,8.9
+UF,43,Rio Grande do Sul,RS,Sul,2016,3,8.3
+UF,43,Rio Grande do Sul,RS,Sul,2016,4,8.4
+UF,43,Rio Grande do Sul,RS,Sul,2017,1,9.2
+UF,43,Rio Grande do Sul,RS,Sul,2017,2,8.6
+UF,43,Rio Grande do Sul,RS,Sul,2017,3,8.2
+UF,43,Rio Grande do Sul,RS,Sul,2017,4,8.1
+UF,43,Rio Grande do Sul,RS,Sul,2018,1,8.6
+UF,43,Rio Grande do Sul,RS,Sul,2018,2,8.4
+UF,43,Rio Grande do Sul,RS,Sul,2018,3,8.3
+UF,43,Rio Grande do Sul,RS,Sul,2018,4,7.5
+UF,43,Rio Grande do Sul,RS,Sul,2019,1,8.1
+UF,43,Rio Grande do Sul,RS,Sul,2019,2,8.3
+UF,43,Rio Grande do Sul,RS,Sul,2019,3,8.9
+UF,43,Rio Grande do Sul,RS,Sul,2019,4,7.3
+UF,43,Rio Grande do Sul,RS,Sul,2020,1,8.5
+UF,43,Rio Grande do Sul,RS,Sul,2020,2,9.7
+UF,43,Rio Grande do Sul,RS,Sul,2020,3,10.5
+UF,43,Rio Grande do Sul,RS,Sul,2020,4,8.6
+UF,43,Rio Grande do Sul,RS,Sul,2021,1,9.5
+UF,43,Rio Grande do Sul,RS,Sul,2021,2,8.8
+UF,43,Rio Grande do Sul,RS,Sul,2021,3,8.4
+UF,43,Rio Grande do Sul,RS,Sul,2021,4,8.1
+UF,43,Rio Grande do Sul,RS,Sul,2022,1,7.4
+UF,43,Rio Grande do Sul,RS,Sul,2022,2,6.3
+UF,43,Rio Grande do Sul,RS,Sul,2022,3,6.0
+UF,43,Rio Grande do Sul,RS,Sul,2022,4,4.6
+UF,43,Rio Grande do Sul,RS,Sul,2023,1,5.4
+UF,43,Rio Grande do Sul,RS,Sul,2023,2,5.3
+UF,43,Rio Grande do Sul,RS,Sul,2023,3,5.4
+UF,43,Rio Grande do Sul,RS,Sul,2023,4,5.2
+UF,43,Rio Grande do Sul,RS,Sul,2024,1,5.8
+UF,43,Rio Grande do Sul,RS,Sul,2024,2,5.9
+UF,43,Rio Grande do Sul,RS,Sul,2024,3,5.1
+UF,43,Rio Grande do Sul,RS,Sul,2024,4,4.5
+UF,43,Rio Grande do Sul,RS,Sul,2025,1,5.3
+UF,43,Rio Grande do Sul,RS,Sul,2025,2,4.3
+UF,43,Rio Grande do Sul,RS,Sul,2025,3,4.1
+UF,43,Rio Grande do Sul,RS,Sul,2025,4,3.7
+UF,43,Rio Grande do Sul,RS,Sul,2026,1,4.0
+UF,43,Rio Grande do Sul,RS,Sul,2026,2,4.2
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2012,1,7.6
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2012,2,7.1
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2012,3,5.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2012,4,5.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2013,1,4.8
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2013,2,5.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2013,3,4.4
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2013,4,4.5
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2014,1,4.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2014,2,3.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2014,3,4.1
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2014,4,3.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2015,1,6.3
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2015,2,6.3
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2015,3,6.3
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2015,4,6.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2016,1,7.8
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2016,2,7.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2016,3,7.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2016,4,8.2
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2017,1,9.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2017,2,9.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2017,3,8.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2017,4,7.4
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2018,1,8.5
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2018,2,7.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2018,3,7.3
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2018,4,7.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2019,1,9.6
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2019,2,8.4
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2019,3,7.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2019,4,6.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2020,1,7.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2020,2,11.6
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2020,3,11.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2020,4,9.6
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2021,1,10.6
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2021,2,9.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2021,3,7.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2021,4,6.5
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2022,1,6.5
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2022,2,5.2
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2022,3,5.1
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2022,4,3.3
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2023,1,4.8
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2023,2,4.1
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2023,3,4.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2023,4,4.1
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2024,1,5.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2024,2,3.8
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2024,3,3.4
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2024,4,3.7
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2025,1,4.0
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2025,2,2.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2025,3,2.9
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2025,4,2.4
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2026,1,3.8
+UF,50,Mato Grosso do Sul,MS,Centro-Oeste,2026,2,2.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2012,1,6.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2012,2,5.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2012,3,5.2
+UF,51,Mato Grosso,MT,Centro-Oeste,2012,4,4.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2013,1,5.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2013,2,4.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2013,3,3.9
+UF,51,Mato Grosso,MT,Centro-Oeste,2013,4,3.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2014,1,4.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2014,2,4.0
+UF,51,Mato Grosso,MT,Centro-Oeste,2014,3,3.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2014,4,4.1
+UF,51,Mato Grosso,MT,Centro-Oeste,2015,1,5.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2015,2,6.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2015,3,6.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2015,4,5.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2016,1,9.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2016,2,10.0
+UF,51,Mato Grosso,MT,Centro-Oeste,2016,3,9.1
+UF,51,Mato Grosso,MT,Centro-Oeste,2016,4,9.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2017,1,10.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2017,2,8.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2017,3,9.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2017,4,7.4
+UF,51,Mato Grosso,MT,Centro-Oeste,2018,1,9.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2018,2,8.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2018,3,6.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2018,4,7.0
+UF,51,Mato Grosso,MT,Centro-Oeste,2019,1,9.2
+UF,51,Mato Grosso,MT,Centro-Oeste,2019,2,8.4
+UF,51,Mato Grosso,MT,Centro-Oeste,2019,3,8.0
+UF,51,Mato Grosso,MT,Centro-Oeste,2019,4,6.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2020,1,8.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2020,2,10.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2020,3,10.2
+UF,51,Mato Grosso,MT,Centro-Oeste,2020,4,10.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2021,1,10.2
+UF,51,Mato Grosso,MT,Centro-Oeste,2021,2,9.1
+UF,51,Mato Grosso,MT,Centro-Oeste,2021,3,6.7
+UF,51,Mato Grosso,MT,Centro-Oeste,2021,4,5.9
+UF,51,Mato Grosso,MT,Centro-Oeste,2022,1,5.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2022,2,4.4
+UF,51,Mato Grosso,MT,Centro-Oeste,2022,3,3.9
+UF,51,Mato Grosso,MT,Centro-Oeste,2022,4,3.6
+UF,51,Mato Grosso,MT,Centro-Oeste,2023,1,4.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2023,2,3.0
+UF,51,Mato Grosso,MT,Centro-Oeste,2023,3,2.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2023,4,3.9
+UF,51,Mato Grosso,MT,Centro-Oeste,2024,1,3.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2024,2,3.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2024,3,2.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2024,4,2.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2025,1,3.5
+UF,51,Mato Grosso,MT,Centro-Oeste,2025,2,2.8
+UF,51,Mato Grosso,MT,Centro-Oeste,2025,3,2.3
+UF,51,Mato Grosso,MT,Centro-Oeste,2025,4,2.4
+UF,51,Mato Grosso,MT,Centro-Oeste,2026,1,3.1
+UF,51,Mato Grosso,MT,Centro-Oeste,2026,2,2.2
+UF,52,Goiás,GO,Centro-Oeste,2012,1,6.3
+UF,52,Goiás,GO,Centro-Oeste,2012,2,5.3
+UF,52,Goiás,GO,Centro-Oeste,2012,3,5.0
+UF,52,Goiás,GO,Centro-Oeste,2012,4,5.1
+UF,52,Goiás,GO,Centro-Oeste,2013,1,6.8
+UF,52,Goiás,GO,Centro-Oeste,2013,2,5.8
+UF,52,Goiás,GO,Centro-Oeste,2013,3,5.2
+UF,52,Goiás,GO,Centro-Oeste,2013,4,3.9
+UF,52,Goiás,GO,Centro-Oeste,2014,1,5.7
+UF,52,Goiás,GO,Centro-Oeste,2014,2,5.4
+UF,52,Goiás,GO,Centro-Oeste,2014,3,5.2
+UF,52,Goiás,GO,Centro-Oeste,2014,4,5.1
+UF,52,Goiás,GO,Centro-Oeste,2015,1,7.0
+UF,52,Goiás,GO,Centro-Oeste,2015,2,7.5
+UF,52,Goiás,GO,Centro-Oeste,2015,3,7.4
+UF,52,Goiás,GO,Centro-Oeste,2015,4,7.8
+UF,52,Goiás,GO,Centro-Oeste,2016,1,10.2
+UF,52,Goiás,GO,Centro-Oeste,2016,2,10.3
+UF,52,Goiás,GO,Centro-Oeste,2016,3,10.7
+UF,52,Goiás,GO,Centro-Oeste,2016,4,11.4
+UF,52,Goiás,GO,Centro-Oeste,2017,1,12.8
+UF,52,Goiás,GO,Centro-Oeste,2017,2,11.1
+UF,52,Goiás,GO,Centro-Oeste,2017,3,9.3
+UF,52,Goiás,GO,Centro-Oeste,2017,4,9.5
+UF,52,Goiás,GO,Centro-Oeste,2018,1,10.4
+UF,52,Goiás,GO,Centro-Oeste,2018,2,9.6
+UF,52,Goiás,GO,Centro-Oeste,2018,3,9.0
+UF,52,Goiás,GO,Centro-Oeste,2018,4,8.4
+UF,52,Goiás,GO,Centro-Oeste,2019,1,10.9
+UF,52,Goiás,GO,Centro-Oeste,2019,2,10.7
+UF,52,Goiás,GO,Centro-Oeste,2019,3,11.1
+UF,52,Goiás,GO,Centro-Oeste,2019,4,10.6
+UF,52,Goiás,GO,Centro-Oeste,2020,1,11.6
+UF,52,Goiás,GO,Centro-Oeste,2020,2,13.1
+UF,52,Goiás,GO,Centro-Oeste,2020,3,13.6
+UF,52,Goiás,GO,Centro-Oeste,2020,4,12.8
+UF,52,Goiás,GO,Centro-Oeste,2021,1,14.0
+UF,52,Goiás,GO,Centro-Oeste,2021,2,12.5
+UF,52,Goiás,GO,Centro-Oeste,2021,3,10.1
+UF,52,Goiás,GO,Centro-Oeste,2021,4,8.8
+UF,52,Goiás,GO,Centro-Oeste,2022,1,9.0
+UF,52,Goiás,GO,Centro-Oeste,2022,2,6.9
+UF,52,Goiás,GO,Centro-Oeste,2022,3,6.2
+UF,52,Goiás,GO,Centro-Oeste,2022,4,6.7
+UF,52,Goiás,GO,Centro-Oeste,2023,1,6.8
+UF,52,Goiás,GO,Centro-Oeste,2023,2,6.2
+UF,52,Goiás,GO,Centro-Oeste,2023,3,6.0
+UF,52,Goiás,GO,Centro-Oeste,2023,4,5.6
+UF,52,Goiás,GO,Centro-Oeste,2024,1,6.1
+UF,52,Goiás,GO,Centro-Oeste,2024,2,5.2
+UF,52,Goiás,GO,Centro-Oeste,2024,3,5.2
+UF,52,Goiás,GO,Centro-Oeste,2024,4,4.9
+UF,52,Goiás,GO,Centro-Oeste,2025,1,5.3
+UF,52,Goiás,GO,Centro-Oeste,2025,2,4.4
+UF,52,Goiás,GO,Centro-Oeste,2025,3,4.5
+UF,52,Goiás,GO,Centro-Oeste,2025,4,3.9
+UF,52,Goiás,GO,Centro-Oeste,2026,1,5.1
+UF,52,Goiás,GO,Centro-Oeste,2026,2,4.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2012,1,8.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2012,2,8.5
+UF,53,Distrito Federal,DF,Centro-Oeste,2012,3,8.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2012,4,8.9
+UF,53,Distrito Federal,DF,Centro-Oeste,2013,1,9.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2013,2,9.2
+UF,53,Distrito Federal,DF,Centro-Oeste,2013,3,8.9
+UF,53,Distrito Federal,DF,Centro-Oeste,2013,4,8.5
+UF,53,Distrito Federal,DF,Centro-Oeste,2014,1,9.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2014,2,9.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2014,3,8.9
+UF,53,Distrito Federal,DF,Centro-Oeste,2014,4,8.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2015,1,10.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2015,2,9.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2015,3,10.4
+UF,53,Distrito Federal,DF,Centro-Oeste,2015,4,9.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2016,1,11.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2016,2,11.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2016,3,12.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2016,4,14.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2017,1,14.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2017,2,13.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2017,3,12.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2017,4,13.4
+UF,53,Distrito Federal,DF,Centro-Oeste,2018,1,14.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2018,2,12.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2018,3,12.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2018,4,12.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2019,1,14.2
+UF,53,Distrito Federal,DF,Centro-Oeste,2019,2,13.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2019,3,13.2
+UF,53,Distrito Federal,DF,Centro-Oeste,2019,4,12.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2020,1,13.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2020,2,15.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2020,3,15.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2020,4,14.5
+UF,53,Distrito Federal,DF,Centro-Oeste,2021,1,15.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2021,2,14.4
+UF,53,Distrito Federal,DF,Centro-Oeste,2021,3,14.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2021,4,12.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2022,1,12.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2022,2,11.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2022,3,11.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2022,4,10.3
+UF,53,Distrito Federal,DF,Centro-Oeste,2023,1,12.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2023,2,8.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2023,3,8.9
+UF,53,Distrito Federal,DF,Centro-Oeste,2023,4,9.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2024,1,9.6
+UF,53,Distrito Federal,DF,Centro-Oeste,2024,2,9.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2024,3,8.9
+UF,53,Distrito Federal,DF,Centro-Oeste,2024,4,9.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2025,1,9.2
+UF,53,Distrito Federal,DF,Centro-Oeste,2025,2,8.7
+UF,53,Distrito Federal,DF,Centro-Oeste,2025,3,8.0
+UF,53,Distrito Federal,DF,Centro-Oeste,2025,4,6.8
+UF,53,Distrito Federal,DF,Centro-Oeste,2026,1,7.1
+UF,53,Distrito Federal,DF,Centro-Oeste,2026,2,6.5
